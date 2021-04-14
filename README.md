@@ -3,7 +3,7 @@
 
 ---
 ## Content
-* [UX]
+* [UX](#ux)
     * [Site Owner Goal](#owner-goal)
     * [User Goals](#user-goal)
     * [User Stories]
@@ -24,14 +24,14 @@
 * [Credits]
 
 
-
+<a name="ux"></a>
 # UX
 
 <a name="owner-goal"></a>
 ## Site Owner Goal 
 
+* Getting users to sign up to the FitLife gym.
 * Getting users excited for exercising at the FitLife gym.
-* Getting users to sign up for a subscription to the FitLife gym.
 * Informing users to the options of exercise at the FitLife gym.
 * Informing users to the importances of exercise. Preferably at the FitLife gym.
 * Showing users how it is like to exercise at the FitLife gym.
@@ -49,6 +49,7 @@
     * Example of the things you can do at the FitLife gym.
 * A website that is easy to use on all screen sizes.
 * A website to contact the FitLife gym.
+
 ---
 
 ## User Stories
