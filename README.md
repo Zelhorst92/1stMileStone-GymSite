@@ -6,7 +6,7 @@
 * [UX](#ux)
     * [Site Owner Goal](#owner-goal)
     * [User Goals](#user-goal)
-    * [User Stories]
+    * [User Stories](#user-stories)
     * [User Requirements and Expectations]
     * [Design Choices]
     * [Wireframes]
@@ -52,23 +52,17 @@
 
 ---
 
+<a name="user-stories"></a>
 ## User Stories
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* As a user, I want a website which is easy and intuitively to use.
+* As a user, I want to see what the website is about at first glance.
+* As a user, I want a website that works on all screen sizes.
+* As a user, I want to subscribe to the FitLife gym.
+* As a user, I want to see what other people think about the FitLife gym.
+* As a user, I want to know what I can do at the FitLife gym.
+* As a user, I want to see what people have done and accompliced at the FitLife gym.
+* As a user, I want to find the contact details of the FitLife gym.
+* As a user, I want to know why I should join the FitLife gym.
+* As a user, I want to see the prices of the different subscriptions to the FitLife gym.
+* As a user, I want to see relevant social media links of the FitLife gym.
