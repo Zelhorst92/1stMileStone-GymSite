@@ -80,3 +80,12 @@
 * Visual content about the gym.
 
 ---
+
+<a name="user-exp"></a>
+## User Expectations
+
+* User expects the navigation on the site to be working properly.
+* User expects the sign-up form will be submitted correctly.
+* User expects the links to the social media to be working properly and open in a seperate browser.
+* User expects to find the contact information.
+
