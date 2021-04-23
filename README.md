@@ -16,13 +16,13 @@
     * [Existing Features](#fea-now)
     * [Future Features](#fea-future)
 
-* [Technologies used]
-    * [Languages]
-    * [Tools and Libraries]
+* [Technologies used](#tech-used)
+    * [Languages](#lang)
+    * [Tools and Libraries](#lib-and-tools)
 
-* [Testing]
-* [Deployment]
-* [Credits]
+* [Testing](#testing)
+* [Deployment](#deploy)
+* [Credits](#credits)
 
 
 <a name="ux"></a>
@@ -73,4 +73,10 @@
 <a name="user-req"></a>
 ## User Requirements
 
-* 
+* Easy navigation to sign-up to the gym.
+* Information about the gym.
+* Contact information for the gym.
+* Information about the different subscriptions.
+* Visual content about the gym.
+
+---
