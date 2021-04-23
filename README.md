@@ -89,3 +89,56 @@
 * User expects the links to the social media to be working properly and open in a seperate browser.
 * User expects to find the contact information.
 
+---
+
+<a name="design-choices"></a>
+## Design Choices
+
+---
+
+<a name="wireframes"></a>
+## Wireframes
+
+---
+---
+
+<a name="features"></a>
+# Features
+
+<a name="fea-now"></a>
+## Existing Features
+
+---
+
+<a name="fea-future"></a>
+## Future Features
+
+---
+---
+
+<a name="tech-used"></a>
+# Technologies
+
+<a name="lang"></a>
+## Languages
+
+<a name="lib-and-tools"></a>
+## Libraries and Tools
+
+
+---
+
+<a name="testing"></a>
+# Testing
+
+---
+
+<a name="deploy"></a>
+# Deployment
+
+---
+
+<a name="credits"></a>
+# Credits
+
+---
