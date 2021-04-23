@@ -7,13 +7,14 @@
     * [Site Owner Goal](#owner-goal)
     * [User Goals](#user-goal)
     * [User Stories](#user-stories)
-    * [User Requirements and Expectations]
-    * [Design Choices]
-    * [Wireframes]
+    * [User Requirements](#user-req)
+    * [User Expectations](#user-exp)
+    * [Design Choices](#design-choices)
+    * [Wireframes](#wireframes)
 
-* [Features]
-    * [Existing Features]
-    * [Features to be implemented]
+* [Features](#features)
+    * [Existing Features](#fea-now)
+    * [Future Features](#fea-future)
 
 * [Technologies used]
     * [Languages]
@@ -66,3 +67,10 @@
 * As a user, I want to know why I should join the FitLife gym.
 * As a user, I want to see the prices of the different subscriptions to the FitLife gym.
 * As a user, I want to see relevant social media links of the FitLife gym.
+
+---
+
+<a name="user-req"></a>
+## User Requirements
+
+* 
