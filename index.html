@@ -37,33 +37,43 @@
 
     <!-- About -->
     <section>
-        <h2>About</h2>
         <div>
-            <h2>Get Fit!</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.</p>
-        </div>
-        <div>
-            <h2>Get Healthy!</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.</p>
-        </div>
-        <hr>
-        <div>IMG HERE</div>
-        <hr>
-        <div>
-            <h2>Make Friends!</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.</p>
-        </div>
-        <div>
-            <h2>Feel Good!</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.</p>
+            <h2>About</h2>
+            <div>
+                <h2>Get Fit!</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip
+                    ex ea commodo consequat.</p>
+            </div>
+            <div>
+                <h2>Get Healthy!</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip
+                    ex ea commodo consequat.</p>
+            </div>
+            <hr>
+            <div>IMG HERE</div>
+            <hr>
+            <div>
+                <h2>Make Friends!</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip
+                    ex ea commodo consequat.</p>
+            </div>
+            <div>
+                <h2>Feel Good!</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip
+                    ex ea commodo consequat.</p>
+            </div>
         </div>
     </section>
     <!-- /.about -->
@@ -72,14 +82,17 @@
 
     <!-- Reviews -->
     <section>
-        <h2>Form others:</h2>
         <div>
-            <p>A great gym! I got ready for summer in just 4 months!</p>
-            <p>John Doe</p>
-        </div>
-        <div>
-            <p>While exercising I made quite a couple of friends! We ussualy go out for a drink after working out!</p>
-            <p>Jane Doe</p>
+            <h2>Form others:</h2>
+            <div>
+                <p>A great gym! I got ready for summer in just 4 months!</p>
+                <p>John Doe</p>
+            </div>
+            <div>
+                <p>While exercising I made quite a couple of friends! We ussualy go out for a drink after working out!
+                </p>
+                <p>Jane Doe</p>
+            </div>
         </div>
     </section>
     <!-- /.review -->
@@ -88,18 +101,20 @@
 
     <!-- Subscriptions -->
     <section>
-        <h2>Subscriptions</h2>
         <div>
-            <h3>Monthly subscription</h3>
-            <p>20 credits per month</p>
-        </div>
-        <div>
-            <h3>Seasonal subscription (popular choice!)</h3>
-            <p><s>50 credits per season</s>Now 40 credits per season</p>
-        </div>
-        <div>
-            <h3>Yearly subscription</h3>
-            <p>180 credits per year</p>
+            <h2>Subscriptions</h2>
+            <div>
+                <h3>Monthly subscription</h3>
+                <p>20 credits per month</p>
+            </div>
+            <div>
+                <h3>Seasonal subscription (popular choice!)</h3>
+                <p><s>50 credits per season</s>Now 40 credits per season</p>
+            </div>
+            <div>
+                <h3>Yearly subscription</h3>
+                <p>180 credits per year</p>
+            </div>
         </div>
     </section>
     <!-- /.subscriptions -->
@@ -108,7 +123,28 @@
 
     <!-- Sign-up Form -->
     <section>
-        Here be sign-up form
+        <div>
+            <form action="https://formdump.codeinstitute.net/" method="post" class="signup-form">
+                <h2>Let's get you signed up!</h2>
+                <label for="fname">First Name:</label>
+                <input type="text" id="fname" name="first_name" class="form-input" required><br>
+                <label for="lname">Last Name:</label>
+                <input type="text" id="lname" name="last_name" class="form-input" required><br>
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email_address" class="form-input" required><br>
+                <label for="email">Phone Number:</label>
+                <input type="tel" id="phone" name="phone_number" class="form-input" required><br>
+
+                <label for="monthly">Monthly</label>
+                <input type="radio" id="monthly" name="subscription_option" value="monthly" required>
+                <label for="seasonal">Seasonal</label>
+                <input type="radio" id="seasonal" name="subscription_option" value="seasonal">
+                <label for="yearly">Yearly</label>
+                <input type="radio" id="yearly" name="subscription_option" value="yearly"><br>
+
+                <input type="submit" value="Sign-up" class="btn btn-success">
+            </form>
+        </div>
     </section>
     <!-- /.sign-up form -->
 
