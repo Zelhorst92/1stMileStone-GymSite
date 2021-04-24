@@ -1,3 +1,8 @@
+.section-heading {
+    font-size: 35px;
+    color: slategray;
+}
+
 /* Call-out */
 .callout-container {
     height: 95vh;
@@ -30,5 +35,5 @@
 .about-image {
     background: url(../images/about_image_b.jpg) no-repeat center center;
     background-size: cover;
-    min-height: 20rem;
+    min-height: 25rem;
 }
