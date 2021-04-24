@@ -1,6 +1,6 @@
 /* Call-out */
 .callout-container {
-    height: 90vh;
+    height: 95vh;
 
     background: url("../images/gym-group_hero.jpg") no-repeat bottom right fixed;
     -webkit-background-size: cover;
@@ -16,5 +16,6 @@
 }
 
 .jumbotron {
-    background-color: rgba(0, 0, 0, 0.4)
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: -200px;
 }
