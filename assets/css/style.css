@@ -19,3 +19,16 @@
     background-color: rgba(0, 0, 0, 0.5);
     margin-top: -200px;
 }
+
+/* About */
+
+.about-image-container {
+    border: 5px solid red;
+    background-size: cover;
+}
+
+.about-image {
+    background: url(../images/about_image_b.jpg) no-repeat center center;
+    background-size: cover;
+    min-height: 20rem;
+}
