@@ -24,13 +24,16 @@ body {
     position: relative;
 }
 
-.jumbotron {
-    background-color: rgba(0, 0, 0, 0.5);
+.callout {
     margin-top: -200px;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.5);
+    max-width: 90vw;
+    position: relative;
+    padding: 25px;
 }
 
 /* About */
-
 .about-image-container {
     border: 5px solid red;
     background-size: cover;
@@ -43,7 +46,6 @@ body {
 }
 
 /* Subscriptions */
-
 .sub-box {
     border: 1px solid black;
     border-radius: 5px;
@@ -52,8 +54,7 @@ body {
 }
 
 /* Sign-up Form */
-
-.form-container {
+.sign-up-container {
     height: 100vh;
     background: url("../images/sign-up_background.jpg") no-repeat bottom left fixed;
     -webkit-background-size: cover;
@@ -68,15 +69,14 @@ body {
     position: relative;
 }
 
-.signup-form {
+.form-container {
     margin-top: -250px;
     color: whitesmoke;
-    background-color: rgba(40, 40, 50, 0.6);
+    background-color: rgba(0, 0, 0, 0.5);
     max-width: 400px;
     position: absolute;
     right: 10%;
     padding: 25px;
-
 }
 
 .form-input {
@@ -95,7 +95,6 @@ body {
 
 
 /* Gallery */
-
 .gallery-image {
     background-position: center center;
     background-repeat: no-repeat;
@@ -126,7 +125,6 @@ body {
 }
 
 /* Contact */
-
 .contact-container {
     max-width: fit-content;
 }
@@ -138,7 +136,6 @@ body {
 }
 
 /* Footer */
-
 footer {
     text-align: center;
 }
