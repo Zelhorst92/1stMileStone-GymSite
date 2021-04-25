@@ -51,7 +51,7 @@ body {
     background-size: cover;
     min-height: 20rem;
     margin: 1.5rem 0rem;
-    box-shadow: 0.3rem -0.5rem 1rem black;
+    box-shadow: 0.3rem -0.3rem 0.5rem black;
 }
 
 #gallery_image_1 {
