@@ -8,9 +8,17 @@ body {
     color: darkgrey;
 }
 
+/* Navigation */
+
+.navbar {
+    width: 100vw;
+    position: fixed;
+    z-index: 2;
+}
+
 /* Call-out */
 .callout-container {
-    height: 95vh;
+    height: 100vh;
     background: url("../images/gym-group_hero.jpg") no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
