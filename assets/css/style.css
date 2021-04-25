@@ -37,3 +37,26 @@
     background-size: cover;
     min-height: 25rem;
 }
+
+
+/* Gallery */
+
+.gallery-image-container {
+    /*     display: flex;
+    justify-content: center;
+    
+    overflow: hidden; */
+}
+
+.gallery-image {
+    flex: 1;
+    /*     
+     justify-content: center;
+    align-items: center; */
+    object-fit: cover;
+    width: 12em;
+    height: 10rem;
+    overflow: hidden;
+    margin: 1rem;
+
+}
