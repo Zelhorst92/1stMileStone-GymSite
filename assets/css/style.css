@@ -138,14 +138,15 @@ body {
 }
 
 /* Contact */
-.contact-container {
-    max-width: fit-content;
-}
+/* .contact-container {} */
 
 .contact-details {
     border: 1px solid black;
-    margin: 5px;
+    /*     margin: 5px; */
     padding: 5px;
+    background-color: bisque;
+
+    max-width: fit-content;
 }
 
 /* Footer */
