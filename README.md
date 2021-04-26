@@ -128,11 +128,11 @@ The most important result is the basic background versus the text colour, which 
 <a name="wireframes"></a>
 ## Wireframes
 
-I have made wireframe for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large.
+I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large. To make the wireframes I have used the program <a href="https://balsamiq.com/wireframes/">Balsamig Wireframes</a>.
 
-<a href="/wireframes/mobile-wireframe-index">Desktop Wireframe</a>
-<a href="/wireframes/tablet-wireframe-index">Desktop Wireframe</a>
-<a href="/wireframes/desktop-wireframe-index">Desktop Wireframe</a>
+* <a href="/wireframes/mobile-wireframe-index">Desktop Wireframe</a>
+* <a href="/wireframes/tablet-wireframe-index">Desktop Wireframe</a>
+* <a href="/wireframes/desktop-wireframe-index">Desktop Wireframe</a>
 
 ---
 ---
