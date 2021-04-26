@@ -17,6 +17,11 @@ body {
     z-index: 2;
 }
 
+.navbar-nav {
+    text-align: right;
+    padding-right: 5px;
+}
+
 /* Call-out */
 .callout-container {
     height: 100vh;
@@ -119,6 +124,10 @@ body {
 
 .form-input:hover {
     border-color: darkgrey;
+}
+
+.radio-btn {
+    text-align: center;
 }
 
 
