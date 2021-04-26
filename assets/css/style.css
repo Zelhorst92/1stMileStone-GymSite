@@ -5,7 +5,7 @@ body {
 
 hr {
     border: 1px solid black;
-    margin: 0;
+    margin: 0 0 5px 0;
 }
 
 .section-heading {
@@ -64,7 +64,7 @@ hr {
     color: white;
     border: 0;
     margin-top: 50px;
-    min-width: 90vw;
+    min-width: 50vw;
     padding: 12px;
     border-radius: 25px;
 }
@@ -72,11 +72,10 @@ hr {
 /* About */
 
 #about {
-    min-height: 75vh;
+    min-height: 60vh;
 }
 
 .about-image-container {
-    border: 5px solid red;
     background-size: cover;
 }
 
@@ -84,14 +83,24 @@ hr {
     background: url(../images/about_image_b.jpg) no-repeat center center;
     background-size: cover;
     min-height: 25rem;
+    border-radius: 25px;
 }
 
 .about-heading {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
-.about-piece {
-    /* text-align: ; */
+@media screen and (min-width: 768px) {
+
+    .about-heading {
+        margin-left: 16px;
+    }
+}
+
+.about-piece p {
+    border-top: 0.5px solid grey;
+    border-radius: 25px;
+    padding: 20px;
 }
 
 @media screen and (max-width: 767px) {
@@ -99,12 +108,15 @@ hr {
     .about-piece {
         text-align: center;
     }
-
 }
 
 @media screen and (min-width: 992px) {
     .about-piece {
         text-align: center;
+    }
+
+    .about-heading {
+        margin-left: 0px;
     }
 }
 
