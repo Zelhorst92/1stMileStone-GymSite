@@ -46,11 +46,13 @@ hr {
 }
 
 .callout {
+    margin-top: -200px;
     color: whitesmoke;
     background-color: rgba(0, 0, 0, 0.5);
     min-width: 90vw;
     padding: 25px;
     border-radius: 25px;
+
 }
 
 .callout h1 {
@@ -61,12 +63,16 @@ hr {
     background: darkgreen;
     text-align: center;
     font-weight: bold;
+    font-size: 30px;
     color: white;
-    border: 0;
-    margin-top: 50px;
-    min-width: 50vw;
+    width: 160px;
+    height: 120px;
+    border: 1px solid black;
     padding: 12px;
     border-radius: 25px;
+    position: absolute;
+    bottom: 10vh;
+    right: 20vw;
 }
 
 /* About */
