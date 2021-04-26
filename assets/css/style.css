@@ -315,6 +315,26 @@ hr {
     background-image: url(../images/gallery_image_5.jpg);
 }
 
+#gallery {
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.gallery-btn {
+    font-size: 15px;
+    width: 100px;
+    background: darkgreen;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+
+    padding: 12px;
+    border-radius: 25px;
+    position: absolute;
+    right: 4vw;
+    bottom: 2vh;
+}
+
 /* Contact */
 .contact-details {
     border: 1px solid black;
