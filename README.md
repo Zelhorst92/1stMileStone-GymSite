@@ -112,7 +112,7 @@ Several icons will be needed, partially to make the user experience on the mobil
 
 The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distraction from the information given. Therefore a positive colous pallete is needed, but still pragmatical; not distraction. On the basis of the chosen hero image and the website <a href="https://coolors.co/" rel="nofollow">Coolors.co</a> I have arrived at the following colour pallette: <a href="https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e">Link to pallette</a>.
 
-<img src="wireframes/colour-pallette-fitlife-gym.png" alt="Color Scheme" style="max-width:100%;">
+<img src="wireframes/colour-pallette-fitlife-gym.png" alt="Colour Pallette Scheme" style="max-width:100%;">
 
 * #B3B3B3 "Silver Chalice" Will be the background colour. Its neutral and all other colours will be distinctable.
 * #E74F0D "Flame Orange" Will be used for what needs the attention of the user. Such as the sign-up buttons or subscribtion prices.
@@ -132,9 +132,9 @@ The most important result is the basic background versus the text colour, which 
 
 I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large. To make the wireframes I have used the program <a href="https://balsamiq.com/wireframes/">Balsamig Wireframes</a>.
 
-* <a href="/wireframes/mobile-wireframe-index">Desktop Wireframe</a>
-* <a href="/wireframes/tablet-wireframe-index">Desktop Wireframe</a>
-* <a href="/wireframes/desktop-wireframe-index">Desktop Wireframe</a>
+* <a href="/wireframes/mobile-wireframe-index" alt="Wireframe for mobile">Desktop Wireframe</a>
+* <a href="/wireframes/tablet-wireframe-index" alt="Wireframe for tablet">Desktop Wireframe</a>
+* <a href="/wireframes/desktop-wireframe-index" alt="Wireframe for desktop">Desktop Wireframe</a>
 
 ---
 ---
