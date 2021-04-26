@@ -14,8 +14,6 @@ hr {
     padding: 5px;
 }
 
-
-
 /* Navigation */
 .navbar {
     width: 100vw;
@@ -99,19 +97,13 @@ hr {
 .about-image {
     background: url(../images/about_image_b.jpg) no-repeat center center;
     background-size: cover;
+    border: 1px solid black;
     min-height: 25rem;
     border-radius: 25px;
 }
 
 .about-heading {
     margin-top: 10px;
-}
-
-@media screen and (min-width: 768px) {
-
-    .about-heading {
-        margin-left: 16px;
-    }
 }
 
 .about-piece p {
@@ -124,6 +116,13 @@ hr {
 
     .about-piece {
         text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    .about-heading {
+        margin-left: 16px;
     }
 }
 
@@ -281,19 +280,16 @@ hr {
     margin-bottom: 1.2rem;
 }
 
-
-
-
 .radio-btn {
     text-align: center;
 }
-
 
 /* Gallery */
 .gallery-image {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    border: 1px solid black;
     min-height: 20rem;
     margin: 1.5rem 0rem;
     /* box-shadow: 0.3rem -0.3rem 0.5rem black; */
@@ -320,11 +316,11 @@ hr {
 }
 
 /* Contact */
-
 .contact-details {
     border: 1px solid black;
+    border-radius: 5px;
     padding: 5px;
-    background-color: bisque;
+    background-color: whitesmoke;
     max-width: fit-content;
 }
 
