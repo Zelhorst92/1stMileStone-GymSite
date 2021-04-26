@@ -84,6 +84,28 @@ hr {
     min-height: 25rem;
 }
 
+.about-heading {
+    margin-top: 5px;
+}
+
+.about-piece {
+    text-align: ;
+}
+
+@media screen and (max-width: 767px) {
+
+    .about-piece {
+        text-align: center;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    .about-piece {
+        text-align: center;
+    }
+}
+
 /* Reviews */
 
 .review-image {
