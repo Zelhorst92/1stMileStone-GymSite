@@ -115,6 +115,28 @@ hr {
     border-radius: 25px;
 }
 
+.media {
+    border-top: 0.5px solid grey;
+    border-bottom: 0.5px solid grey;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 3rem 0;
+}
+
+@media screen and (min-width: 768px) {
+
+    .media {
+        min-height: 350px;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    .media {
+        min-height: 230px;
+    }
+}
+
 /* Subscriptions */
 
 .sub-card {
