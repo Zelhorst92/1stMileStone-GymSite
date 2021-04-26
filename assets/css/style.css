@@ -165,7 +165,7 @@ hr {
 }
 
 .form-container {
-    margin-top: -250px;
+    margin-top: -260px;
     color: whitesmoke;
     background-color: rgba(0, 0, 0, 0.5);
     max-width: 400px;
@@ -182,11 +182,14 @@ hr {
         height: 575px;
     }
 
+    .sign-up-container {
+        height: 120vh;
+    }
 }
 
 @media screen and (min-width: 1440px) {
     .form-container {
-        right: 20%;
+        right: 25%;
     }
 
 }
