@@ -94,10 +94,45 @@
 <a name="design-choices"></a>
 ## Design Choices
 
+The goal of this site is the entice people to register on this site to become a member at the FitLife gym. Therefore the user should have the basic information at a glance and the colours should be of a positive 'feeling'.
+
+### The structure
+
+For the structure of the website I will use the framework <a href="https://getbootstrap.com/" rel="nofollow">Bootstrap</a>. This framework allows for a proper responsive website which is build up from a mobile-first perspective. The grid-system that Bootstrap provides is very usefull to have a well working responsive website. Furthermore Bootstrap has a wide browser compatibility, quite easy to use and very customizable.
+
+### Fonts
+
+As the site is intended to inform the user quickly and efficiently about the FitLife gym, the font has to be easy to read and not diverting attention to much from the goal of the user subscribing to the gym. Therefore a simple but well readable font is necessary. I will be using a font from <a href="https://fonts.google.com/" rel="nofollow">Google Fonts</a>, specifically the <a href="https://fonts.google.com/specimen/Ubuntu">Ubuntu Font</a>. As it is a nice to the eyes and good to read. While still looking professional.
+
+### Icons
+
+Several icons will be needed, partially to make the user experience on the mobile phone more fluently and partially because it is the norm to represent links to social media such as facebook and twitter by their logo. I will be using <a href="https://fontawesome.com/" rel="nofollow">Font Awesome</a> for this, as Font Awesome provides all the necessary icons and more.
+
+### Colours
+
+The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distraction from the information given. Therefore a positive colous pallete is needed, but still pragmatical; not distraction. On the basis of the chosen hero image and the website <a href="https://coolors.co/" rel="nofollow">Coolors.co</a> I have arrived at the following colour pallette: <a href="https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e">Link to pallette</a>.
+<img src="wireframes/colour-pallette-fitlife-gym.png" alt="Color Scheme" style="max-width:100%;">
+* #B3B3B3 "Silver Chalice" Will be the background colour. Its neutral and all other colours will be distinctable.
+* #E74F0D "Flame Orange" Will be used for what needs the attention of the user. Such as the sign-up buttons or subscribtion prices.
+* #191919 "Eerie Black" Will be used as the primary colour for the text.
+* #3E3E3E "Onyx" Will be used as the secondary colour, possible for text if the primary colour will not fit or border just the make a distinction between different elements.
+* #FB8D2C "Cadmium Orange" Will be used where the other colours cannot be used. Ie if the Flame Orange is already being used nearby, but the element needs to stand appart.
+
+#### Coolors Contrast Checker
+
+Text versus background contrast is very important. Therefore I have used the <a href="https://coolors.co/contrast-checker/">contrast checker</a> on Coolors.
+The most important result is the basic background versus the text colour, which scored an <a href="https://coolors.co/contrast-checker/191919-b3b3b3">8.39</a>.
+
 ---
 
 <a name="wireframes"></a>
 ## Wireframes
+
+I have made wireframe for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large.
+
+<a href="/wireframes/mobile-wireframe-index">Desktop Wireframe</a>
+<a href="/wireframes/tablet-wireframe-index">Desktop Wireframe</a>
+<a href="/wireframes/desktop-wireframe-index">Desktop Wireframe</a>
 
 ---
 ---
