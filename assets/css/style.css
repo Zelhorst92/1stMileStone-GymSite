@@ -31,6 +31,7 @@ hr {
 /* Call-out */
 .callout-container {
     height: 100vh;
+    min-height: 400px;
     background: url("../images/gym-group_hero.jpg") no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -149,6 +150,7 @@ hr {
 /* Sign-up Form */
 .sign-up-container {
     height: 100vh;
+    min-height: 480px;
     background: url("../images/sign-up_background.jpg") no-repeat bottom left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
