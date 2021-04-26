@@ -23,6 +23,17 @@ hr {
     z-index: 2;
 }
 
+.navbar-bg {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+
+}
+
 .navbar-nav {
     text-align: right;
     padding-right: 5px;
@@ -65,14 +76,14 @@ hr {
     font-weight: bold;
     font-size: 30px;
     color: white;
-    width: 160px;
+    width: 240px;
     height: 120px;
     border: 1px solid black;
     padding: 12px;
     border-radius: 25px;
     position: absolute;
     bottom: 10vh;
-    right: 20vw;
+    right: 10vw;
 }
 
 /* About */
