@@ -4,7 +4,7 @@ body {
 }
 
 hr {
-    border: 5px solid black;
+    border: 1px solid black;
     margin: 0;
 }
 
@@ -45,17 +45,26 @@ hr {
 }
 
 .callout {
-    margin-top: -200px;
     color: whitesmoke;
     background-color: rgba(0, 0, 0, 0.5);
-    max-width: 90vw;
-    position: relative;
+    min-width: 90vw;
     padding: 25px;
     border-radius: 25px;
 }
 
 .callout h1 {
     color: whitesmoke;
+}
+
+.sign-up-btn {
+    background: darkgreen;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin-top: 50px;
+    min-width: 90vw;
+    padding: 12px;
+    border-radius: 25px;
 }
 
 /* About */
