@@ -1,16 +1,22 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
+}
 
+hr {
+    border: 5px solid black;
+    margin: 0;
 }
 
 .section-heading {
     font-size: 35px;
     color: darkgrey;
+    padding: 5px;
 }
 
-/* Navigation */
 
+
+/* Navigation */
 .navbar {
     width: 100vw;
     position: fixed;
