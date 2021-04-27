@@ -16,12 +16,6 @@ hr {
     margin: 0 0 5px 0;
 }
 
-.section-heading {
-    font-size: 35px;
-    color: black;
-    padding: 5px;
-}
-
 /* Footer */
 footer {
     text-align: center;
@@ -37,6 +31,29 @@ footer i {
     margin: 1%;
     padding: 5%;
     color: #191919;
+}
+
+/* Repeatables */
+.section-heading {
+    font-size: 35px;
+    color: black;
+    padding: 5px;
+}
+
+.fitlife-btn {
+    background: rgba(231, 79, 13, 0.66);
+    color: #191919;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 25px;
+    box-shadow: 0.2rem -0.2rem 0.2rem 0.1rem black;
+    text-decoration: 0;
+}
+
+.fitlife-btn:hover {
+    background: #E74F0D;
+    color: #d3d3d3;
+    text-decoration: 0;
 }
 
 /* Navigation */
@@ -89,10 +106,10 @@ footer i {
 }
 
 
-/* Call-out */
+/* Hero-image */
 #hero-container {
     height: 100vh;
-    min-height: 400px;
+    min-height: 40rem;
     background: url("../images/gym-group_hero.jpg") no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -106,34 +123,32 @@ footer i {
     position: relative;
 }
 
-.callout {
-    margin-top: -200px;
-    color: whitesmoke;
-    background-color: rgba(0, 0, 0, 0.5);
-    min-width: 90vw;
-    padding: 25px;
-    border-radius: 25px;
-}
+.hero-text {
+    color: #191919;
 
-.callout h1 {
-    color: #FFF;
-}
-
-.sign-up-btn {
-    background: darkgreen;
     text-align: center;
-    font-weight: bold;
-    font-size: 30px;
-    color: white;
-    width: 240px;
-    height: 120px;
-    border: 1px solid black;
-    padding: 12px;
-    border-radius: 25px;
+    margin-top: -20rem;
+    background-color: rgba(231, 79, 13, 0.66);
+    min-width: 90vw;
+    padding: 2.5rem;
+    border-radius: 2.5rem;
+}
+
+.hero-text>h1 {
+    font-size: 4rem;
+}
+
+.hero-sign-up {
+    font-size: 5rem;
+    width: 24rem;
+    height: 12rem;
+    padding: 1.5rem;
+
     position: absolute;
     bottom: 10vh;
     right: 10vw;
 }
+
 
 /* About */
 #about {
