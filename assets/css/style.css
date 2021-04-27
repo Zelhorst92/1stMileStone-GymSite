@@ -6,6 +6,7 @@ html {
 
 body {
     font-family: Ubuntu, Arial;
+    font-weight: 400;
     background-color: #B3B3B3;
     font-size: 16px;
 }
@@ -40,29 +41,56 @@ footer i {
 
 /* Navigation */
 .navbar {
+    background-color: #191919;
     width: 100vw;
     position: fixed;
     z-index: 2;
 }
 
-.navbar-bg {
-    background-color: #191919;
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #E74F0D;
+    text-decoration: none;
+    margin: 0;
+    padding: 0 0 0 1rem;
 }
 
-.navbar-brand {
-    font-size: 30px;
-    margin: 0;
-    padding: 0;
+.navbar-brand:hover {
+    text-decoration: none;
+    color: #E74F0D;
+}
 
+.navbar .navbar-toggler {
+    border-color: #E74F0D;
+    padding: 1rem 1.5rem;
+    margin: 0.5rem;
+}
+
+.navbar .navbar-toggler .fa-bars {
+    font-size: 3rem;
+    color: #E74F0D;
 }
 
 .navbar-nav {
     text-align: right;
-    padding-right: 5px;
+    padding-right: 2rem;
 }
 
+.nav-link {
+    font-weight: 500;
+    text-decoration: none;
+    color: #E74F0D;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: #FB8D2C;
+}
+
+
 /* Call-out */
-.callout-container {
+#hero-container {
     height: 100vh;
     min-height: 400px;
     background: url("../images/gym-group_hero.jpg") no-repeat bottom center fixed;
