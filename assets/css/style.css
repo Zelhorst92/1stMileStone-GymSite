@@ -110,7 +110,7 @@ footer i {
 #hero-container {
     height: 100vh;
     min-height: 40rem;
-    background: url("../images/gym-group_hero.jpg") no-repeat bottom center fixed;
+    background: url("../images/gym-group-hero.jpg") no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -189,31 +189,17 @@ footer i {
 
 /* Reviews */
 .review-image {
-    height: 100px;
-    width: 100px;
-    border-radius: 25px;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 2.5rem;
 }
 
 .media {
-    border-top: 0.5px solid grey;
-    border-bottom: 0.5px solid grey;
-    border-radius: 25px;
-    padding: 25px;
+    border-top: 0.5px solid #3e3e3e;
+    border-bottom: 0.5px solid #3e3e3e;
+    border-radius: 2.5rem;
+    padding: 2.5rem;
     margin: 3rem 0;
-}
-
-@media screen and (min-width: 768px) {
-
-    .media {
-        min-height: 350px;
-    }
-
-}
-
-@media screen and (min-width: 992px) {
-    .media {
-        min-height: 230px;
-    }
 }
 
 /* Subscriptions */
@@ -407,6 +393,13 @@ footer i {
         text-align: left;
         margin-left: 4rem;
     }
+
+    /* Review */
+
+    .media {
+        min-height: 19rem;
+        padding-bottom: 0;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -419,6 +412,12 @@ footer i {
         height: 56rem;
         width: auto;
         margin: 2rem 2rem 0 2rem;
+    }
+
+    /* Review */
+
+    .media {
+        min-height: 15rem;
     }
 }
 
