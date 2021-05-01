@@ -204,38 +204,73 @@ footer i {
 
 /* Subscriptions */
 
+#sub {
+    border-bottom: 0.5rem solid #3e3e3e;
+}
+
 .sub-card {
-    height: 350px;
-    width: 250px;
-    border: 3px solid black;
-    border-radius: 25px;
-    padding: 15px;
+    background-color: rgb(207, 207, 207);
+    height: 35rem;
+    width: 25rem;
+    border: 3px solid #191919;
+    border-radius: 2.5rem;
+    padding: 1.5rem;
     margin: 2rem auto 2rem auto;
     text-align: center;
-    box-shadow: 0.5rem -0.5rem 0.5rem 0.1rem black;
+    box-shadow: 0.5rem -0.5rem 0.5rem 0.1rem #E74F0D;
 
     position: relative;
 }
 
-.sub-card button {
-    width: 100px;
-    background: darkgreen;
-    text-align: center;
-    font-weight: bold;
-    color: white;
+.sub-card-header {
+    height: 7.5rem;
+}
 
-    padding: 12px;
-    border-radius: 25px;
+.sub-card-header p {
+    font-weight: bold;
+}
+
+.sub-card-title {
+    font-weight: 500;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.sub-card i {
+    font-size: 2.5rem;
+    color: #E74F0D;
+    animation: blinker 1.5s ease-out infinite;
+}
+
+@keyframes blinker {
+    50% {
+        color: #FB8D2C;
+        opacity: 100%;
+    }
+}
+
+.sub-feature {
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding: 0;
+    text-align: left;
+    height: 9rem;
+
+}
+
+.sub-price {
+    font-weight: bold;
+}
+
+.sub-btn {
+    width: 10rem;
+    font-weight: 500;
 
     position: absolute;
     right: 0;
     bottom: 0;
     margin-right: 1.5rem;
     margin-bottom: 1.5rem;
-}
-
-#sub {
-    border-bottom: 0.5rem solid #3e3e3e;
 }
 
 /* Sign-up Form */
