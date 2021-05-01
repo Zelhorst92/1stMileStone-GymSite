@@ -128,8 +128,8 @@ footer i {
     text-align: center;
     margin-top: -20rem;
     background-color: rgba(231, 79, 13, 0.66);
-    min-width: 90vw;
-    padding: 2.5rem;
+    max-width: 90vw;
+    padding: 2.5rem 3.5rem;
     border-radius: 2.5rem;
 }
 
