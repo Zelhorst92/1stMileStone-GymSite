@@ -291,7 +291,7 @@ footer i {
 }
 
 .form-jumbotron {
-    background-color: rgba(62, 62, 62, 0.5);
+    background-color: rgba(62, 62, 62, 0.66);
     border: 0.5rem solid #191919;
     max-width: 40rem;
     height: 50rem;
@@ -335,12 +335,13 @@ footer i {
 }
 
 .sub-term {
+    color: #E74F0D;
     font-size: 1.5rem;
 }
 
 .form-sub-options {
     text-align: center;
-    color: #B3B3B3;
+    color: #E74F0D;
     display: flex;
     justify-content: space-evenly;
 }
