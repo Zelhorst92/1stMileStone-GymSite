@@ -277,7 +277,7 @@ footer i {
 .form-container {
     height: 32rem;
     min-height: 52.5rem;
-    background: url("../images/sign-up_background.jpg") no-repeat bottom left fixed;
+    background: url("../images/sign-up-background.jpg") no-repeat bottom left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
