@@ -145,10 +145,34 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 <a name="fea-now"></a>
 ## Existing Features
 
+### The navigation bar
+
+### The hero image/hero sign-up
+
+### The about section
+
+### The review section
+
+### The subscription section
+
+### The Sign-up section
+
+### The gallery preview section
+
+### The contact section
+
 ---
 
 <a name="fea-future"></a>
 ## Future Features
+
+### A dedicated gallery page
+
+### A memberpage
+
+### A function that an email will be send to the subscriber when subscribing
+
+### 
 
 ---
 ---
@@ -158,6 +182,8 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 
 <a name="lang"></a>
 ## Languages
+
+<a href="">
 
 <a name="lib-and-tools"></a>
 ## Libraries and Tools
