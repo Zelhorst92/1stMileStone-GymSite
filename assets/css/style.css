@@ -12,24 +12,6 @@ body {
     font-size: 16px;
 }
 
-
-/* Footer */
-/* footer {
-    text-align: center;
-    height: 5rem;
-}
-
-footer li {
-    display: inline;
-}
-
-footer i {
-    font-size: 5rem;
-    margin: 1%;
-    padding: 5%;
-    color: #191919;
-} */
-
 /* Repeatables */
 .section-heading {
     border-top: 0.5rem solid #3e3e3e;
@@ -105,7 +87,6 @@ footer i {
     color: #FB8D2C;
 }
 
-
 /* Hero-image */
 #hero-container {
     height: 100vh;
@@ -125,20 +106,20 @@ footer i {
 
 .hero-text {
     color: #191919;
-
+    border: 1px solid #191919;
     text-align: center;
-    margin-top: -20rem;
+    margin-top: -10rem;
     background-color: rgba(231, 79, 13, 0.66);
-    max-width: 90vw;
+    max-width: 95vw;
     padding: 2.5rem 3.5rem;
     border-radius: 2.5rem;
 }
 
 .hero-text>h1 {
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
-.hero-sign-up {
+.hero-signup-btn {
     font-size: 5rem;
     width: 24rem;
     height: 12rem;
@@ -148,7 +129,6 @@ footer i {
     bottom: 10vh;
     right: 10vw;
 }
-
 
 /* About */
 #about {
@@ -203,7 +183,6 @@ footer i {
 }
 
 /* Subscriptions */
-
 #sub {
     border-bottom: 0.5rem solid #3e3e3e;
 }
@@ -411,12 +390,10 @@ footer i {
 }
 
 /* Footer */
-
 #footer-section {
     border-top: 0.5rem solid #3e3e3e;
     margin-top: 2rem;
     justify-content: center;
-
     height: 3rem;
 }
 
@@ -438,8 +415,13 @@ footer i {
     color: #191919;
 }
 
-
+/* Media Queries */
 @media screen and (min-width: 576px) {
+
+    /* Hero-image */
+    .hero-text>h1 {
+        font-size: 3.5rem;
+    }
 
     /* Sign-up Form */
     .form-container {
@@ -462,6 +444,11 @@ footer i {
 }
 
 @media screen and (min-width: 768px) {
+
+    /* Hero-image */
+    .hero-text>h1 {
+        font-size: 4rem;
+    }
 
     /* About */
     .about-heading {
