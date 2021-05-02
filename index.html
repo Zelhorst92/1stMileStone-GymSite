@@ -248,27 +248,31 @@
 
     <!-- Sign-up Form -->
     <section id="sign-up">
-        <div class="sign-up-container">
+        <div class="form-container">
             <div>
-                <form action="https://formdump.codeinstitute.net/" method="post" class="form-container">
-                    <h2 class="text-center">Sign-up Now!</h2>
-                    <label for="fname">First Name:</label>
-                    <input type="text" id="fname" name="first_name" class="form-input" required><br>
-                    <label for="lname">Last Name:</label>
-                    <input type="text" id="lname" name="last_name" class="form-input" required><br>
-                    <label for="email">Email Address:</label>
-                    <input type="email" id="email" name="email_address" class="form-input" required><br>
-                    <label for="email">Phone Number:</label>
-                    <input type="tel" id="phone" name="phone_number" class="form-input" required><br>
-                    <div class="radio-btn">
-                        <label for="monthly">Monthly</label>
-                        <input type="radio" id="monthly" name="subscription_option" value="monthly" required>
-                        <label for="seasonal">Seasonal</label>
-                        <input type="radio" id="seasonal" name="subscription_option" value="seasonal">
-                        <label for="yearly">Yearly</label>
-                        <input type="radio" id="yearly" name="subscription_option" value="yearly"><br>
+                <form action="https://formdump.codeinstitute.net/" method="post" class="form-jumbotron">
+                    <h2 class="form-header">Sign-up Now!</h2>
+                    <input type="text" id="fname" name="first_name" class="form-input" placeholder="First Name"
+                        required>
+                    <input type="text" id="lname" name="last_name" class="form-input" placeholder="Last Name" required>
+                    <input type="email" id="email" name="email_address" class="form-input" placeholder="Email Address">
+                    <input type="tel" id="phone" name="phone_number" class="form-input" placeholder="Phone Number">
+                    <h2 class="sub-term">Pick your preferred subscription term:</h2>
+                    <div class="form-sub-options">
+                        <div>
+                            <label for="monthly">Monthly:</label>
+                            <input type="radio" id="monthly" name="subscription_option" value="monthly" required>
+                        </div>
+                        <div>
+                            <label for="seasonal">Seasonal:</label>
+                            <input type="radio" id="seasonal" name="subscription_option" value="seasonal">
+                        </div>
+                        <div>
+                            <label for="yearly">Yearly:</label>
+                            <input type="radio" id="yearly" name="subscription_option" value="yearly"><br>
+                        </div>
                     </div>
-                    <input type="submit" value="Sign-up" class="btn form-btn">
+                    <input type="submit" value="Sign-up!" class="fitlife-btn form-btn">
                 </form>
             </div>
         </div>

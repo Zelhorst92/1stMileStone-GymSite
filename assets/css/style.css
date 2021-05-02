@@ -45,7 +45,7 @@ footer i {
     color: #191919;
     text-align: center;
     border: 1px solid #000;
-    border-radius: 25px;
+    border-radius: 2.5rem;
     box-shadow: 0.2rem -0.2rem 0.2rem 0.1rem #000;
     text-decoration: 0;
 }
@@ -274,9 +274,9 @@ footer i {
 }
 
 /* Sign-up Form */
-.sign-up-container {
-    height: 100vh;
-    min-height: 480px;
+.form-container {
+    height: 32rem;
+    min-height: 52.5rem;
     background: url("../images/sign-up_background.jpg") no-repeat bottom left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -290,63 +290,65 @@ footer i {
     position: relative;
 }
 
-.form-container {
-    margin-top: -260px;
-    color: whitesmoke;
-    background-color: rgba(0, 0, 0, 0.5);
-    max-width: 400px;
-    height: 525px;
+.form-jumbotron {
+    background-color: rgba(62, 62, 62, 0.5);
+    border: 0.5rem solid #191919;
+    max-width: 40rem;
+    height: 50rem;
 
     position: absolute;
-    right: 10%;
-    padding: 25px;
-    border-radius: 25px;
+    bottom: 2.5%;
+    right: 2.5%;
+    padding: 2.5rem;
+    border-radius: 2.5rem;
 }
 
-@media screen and (max-width: 369px) {
-    .form-container {
-        height: 575px;
-    }
-
-    .sign-up-container {
-        height: 120vh;
-    }
-}
-
-@media screen and (min-width: 1440px) {
-    .form-container {
-        right: 25%;
-    }
-
-}
-
-.sign-up-container form h2 {
-    font-size: 47px;
+.form-header {
+    color: #E74F0D;
+    text-align: center;
+    font-size: 4rem;
+    border-bottom: 3px solid #191919;
+    border-radius: 2.5rem;
+    margin-bottom: 2.5rem;
+    padding: 0.5rem;
 }
 
 .form-input {
     background: transparent;
-    color: whitesmoke;
     width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border: 1px solid whitesmoke;
-    border-radius: 2px;
+    height: 2.5rem;
+    margin: 0.5rem 0 2rem 0;
+    border: 2px solid #191919;
+    border-radius: 1rem;
+    padding: 0.5rem;
 }
 
-.form-input:hover {
-    border-color: darkgrey;
+.form-input:hover,
+.form-input:focus {
+    border-color: #E74F0D;
+    outline-style: none;
+    box-shadow: 0 0 0 1px #E74F0D;
+}
+
+.form-input::placeholder {
+    color: #E74F0D;
+}
+
+.sub-term {
+    font-size: 1.5rem;
+}
+
+.form-sub-options {
+    text-align: center;
+    color: #B3B3B3;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .form-btn {
-    width: 175px;
-    background: darkgreen;
-    text-align: center;
+    width: 17.5rem;
+    height: 5rem;
     font-weight: bold;
-    color: white;
-
-    padding: 12px;
-    border-radius: 25px;
 
     position: absolute;
     right: 0;
@@ -355,9 +357,6 @@ footer i {
     margin-bottom: 1.2rem;
 }
 
-.radio-btn {
-    text-align: center;
-}
 
 /* Gallery */
 .gallery-image {
@@ -419,28 +418,48 @@ footer i {
     max-width: fit-content;
 }
 
+@media screen and (min-width: 576px) {
+
+    /* Sign-up Form */
+    .form-container {
+        height: 100vh;
+    }
+
+    .form-jumbotron {
+        bottom: 30%;
+    }
+
+    .form-header {
+        font-size: 5rem;
+    }
+}
+
 
 @media screen and (min-width: 768px) {
 
     /* About */
-
     .about-heading {
         text-align: left;
         margin-left: 4rem;
     }
 
     /* Review */
-
     .media {
         min-height: 19rem;
         padding-bottom: 0;
+    }
+
+    /* Sign-up Form */
+    .form-jumbotron {
+        height: 45rem;
+        max-width: 40rem;
+        right: 10%;
     }
 }
 
 @media screen and (min-width: 992px) {
 
     /* About */
-
     .about-image {
         background-position: 70% 50%;
         margin-bottom: 0;
@@ -450,7 +469,6 @@ footer i {
     }
 
     /* Review */
-
     .media {
         min-height: 15rem;
     }
@@ -459,11 +477,24 @@ footer i {
 @media screen and (min-width: 1200px) {
 
     /* About */
-
     .about-image {
         background-position: 70% 50%;
         margin-bottom: 0;
         height: 51rem;
         width: auto;
     }
+
+    /* Sign-up Form */
+    .form-jumbotron {
+        right: 20%;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+
+    /* Sign-up Form */
+    .form-jumbotron {
+        right: 25%;
+    }
+
 }
