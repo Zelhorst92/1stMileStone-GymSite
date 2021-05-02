@@ -57,7 +57,7 @@ body {
 
 .navbar-brand:hover {
     text-decoration: none;
-    color: #E74F0D;
+    color: #FB8D2C;
 }
 
 .navbar .navbar-toggler {
@@ -413,6 +413,10 @@ body {
     margin: auto;
     padding: 5px;
     color: #191919;
+}
+
+.footer-items .fab:hover {
+    color: #3e3e3e;
 }
 
 /* Media Queries */
