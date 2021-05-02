@@ -361,13 +361,13 @@ footer i {
 
 /* Gallery */
 .gallery-image {
-    background-position: center center;
+    background-position: 50% 40%;
     background-repeat: no-repeat;
     background-size: cover;
-    border: 1px solid black;
+    border: 1px solid #191919;
     min-height: 20rem;
     margin: 1.5rem 0rem;
-    /* box-shadow: 0.3rem -0.3rem 0.5rem black; */
+    box-shadow: 0.3rem 0.3rem 0.5rem #191919;
 }
 
 #gallery_image_1 {
@@ -392,22 +392,14 @@ footer i {
 
 #gallery {
     position: relative;
-    padding-bottom: 50px;
+    padding-bottom: 5rem;
 }
 
 .gallery-btn {
-    font-size: 15px;
-    width: 100px;
-    background: darkgreen;
-    text-align: center;
-    font-weight: bold;
-    color: white;
-
-    padding: 12px;
-    border-radius: 25px;
-    position: absolute;
-    right: 4vw;
-    bottom: 2vh;
+    font-weight: 500;
+    width: 12rem;
+    margin-right: 1rem;
+    padding: 0.5rem;
 }
 
 /* Contact */
