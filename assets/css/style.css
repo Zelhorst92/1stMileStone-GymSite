@@ -433,7 +433,7 @@ body {
     }
 
     .form-jumbotron {
-        bottom: 30%;
+        bottom: 20%;
     }
 
     .form-header {
@@ -471,6 +471,7 @@ body {
         height: 45rem;
         max-width: 40rem;
         right: 10%;
+        bottom: 30%;
     }
 }
 
