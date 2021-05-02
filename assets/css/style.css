@@ -14,7 +14,7 @@ body {
 
 
 /* Footer */
-footer {
+/* footer {
     text-align: center;
     height: 5rem;
 }
@@ -28,7 +28,7 @@ footer i {
     margin: 1%;
     padding: 5%;
     color: #191919;
-}
+} */
 
 /* Repeatables */
 .section-heading {
@@ -404,12 +404,13 @@ footer i {
 
 /* Contact */
 .contact-details {
-    border: 1px solid black;
-    border-radius: 5px;
-    padding: 5px;
-    background-color: whitesmoke;
-    max-width: fit-content;
+    margin: 1px;
+    border: 1px solid #3e3e3e;
+    border-radius: 2.5rem;
+    padding: .5rem;
 }
+
+/* Footer */
 
 @media screen and (min-width: 576px) {
 
@@ -425,8 +426,13 @@ footer i {
     .form-header {
         font-size: 5rem;
     }
-}
 
+    /* Contact */
+    .contact-details {
+        max-width: 50rem;
+        margin: auto;
+    }
+}
 
 @media screen and (min-width: 768px) {
 
