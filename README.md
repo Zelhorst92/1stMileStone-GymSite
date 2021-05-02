@@ -183,13 +183,30 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 <a name="lang"></a>
 ## Languages
 
-<a href="">
+* <a href="https://en.wikipedia.org/wiki/HTML" rel="nofollow" target="_blank" title="Link to the HTML wikipedia page">HTML</a>
+* <a href="https://en.wikipedia.org/wiki/CSS" rel="nofollow" target="_blank" title="Link to the CSS wikipedia page">CSS</a>
+
 
 <a name="lib-and-tools"></a>
 ## Libraries and Tools
 
+### Libraries & Frameworks
 
----
+* <a href="https://getbootstrap.com/" rel="nofollow" target="_blank" title="Link to bootstrap">Bootstrap</a>
+* <a href="https://fontawesome.com/" rel="nofollow" target="_blank" title="Link to fontawesome">Fontawsome</a>
+* <a href="https://fonts.google.com/" rel="nofollow" target="_blank" title="Link to googlefonts">Googlefonts</a>
+
+### Tools
+
+* <a href="https://www.gitpod.io/" rel="nofollow" target="_blank" title="Link to gitpod">Gitpod</a>
+* <a href="https://github.com/" rel="nofollow" target="_blank" title="Link to github">Github</a>
+* <a href="https://git-scm.com/" rel="nofollow" target="_blank" title="Link to git">Git</a>
+* <a href="https://tinypng.com/" rel="nofollow" target="_blank" title="Link to tinypng">Tinypng</a>
+* <a href="https://balsamiq.com/wireframes/" rel="nofollow" target="_blank" title="Link to balsamiq wireframes">Balsamiq Wireframes</a>
+* <a href="https://www.w3.org/" rel="nofollow" target="_blank" title="Link to W3schools">W3schools</a>
+* <a href="https://stackoverflow.com/" rel="nofollow" target="_blank" title="Link to stackoverflow">Stackoverflow Forums</a>
+* <a href="https://jigsaw.w3.org/css-validator/" rel="nofollow" target="_blank" title="Link to the w3 css validator">W3C Css-validator</a>
+* <a href="https://validator.w3.org/" rel="nofollow" target="_blank" title="Link to w3c markup validator">W3C Markup-validator</a>
 
 <a name="testing"></a>
 # Testing
