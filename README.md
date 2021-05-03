@@ -145,21 +145,37 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 <a name="fea-now"></a>
 ## Existing Features
 
-### The navigation bar
+### The Navigation Bar
 
-### The hero image/hero sign-up
+The navigationbar is a component from <a href="https://getbootstrap.com/" rel="nofollow" target="_blank" title="link to bootstrap">Bootstrap</a>, which I have modified to fit better with the style of the site. It will stay at the top of the website at all time, so that the user can use it to navigate the website at the users descretion. Furthermore is the navigationbar responsive and will show a menu button, with a dropdown menu when clicked, when viewed on a small tablet or mobilephone.
 
-### The about section
+### The Hero Image/Hero Sign-up
 
-### The review section
+The hero image is meant as an eye catcher; it is clear what the site is about. This is combined with a big 'Sign-up' button to get user to sign up to the gym. The image resizes in such a way that there always exercising people in view. The 'Sign-up' button links to furtherdown the website, where you can commit your contact details.
 
-### The subscription section
+### The About Section
 
-### The Sign-up section
+The about section contains 4 reasons why you should exercise, combined with an image of a member exercising. The responsiveness is done with the grid layout from Bootstrap. On the smaller screen sizes all content will be ordered vertically in one column; 2 paragraphs followed by the image and then followed by the other 2 paragraphs. When the screen gets wider, paragraphs 2 and 4 will jump up to set next to paragraphs 1 and 3, with the image sitting in between the two sets of paragraphs, still aligned vertically. When the screen gets even wider, paragraphs 2 and 4 will jump back below paragraphs 1 and 3, but the content will be aligned horizontally. From left the right; paragraphs 1 and 2, then the image and then paragraphs 3 and 4. All content is responsive and will resize accordingly.
 
-### The gallery preview section
+### The Review Section
 
-### The contact section
+The review section contains 2 reviews of members of the FitLife gym. This is also made responsive with Bootstrap. On the smaller screen sizes, the reviews will be shown below each other. When the screen gets wide enough they will be shown next to each other.
+
+### The Subscription Section
+
+In the subscription section, there are three different 'subscription cards' to indicate the three options of membership; monthly, per season or yearly. There is a small eyecatcher to the yearly subscription card, which blinks. The select button brings you to the sign up section of the page.
+
+### The Sign-up Section
+
+The sign up section also has an eye catching background, to confirm once again that if you do your exercise at the FitLife gym, you will look great. It also contains the sign-up form, where the user can leave their contact information so that the customerservice of the FitLife gym can contact the user with a membership offer they cannot refuse. It requires the users full name, emailaddress and phonenumber plus their preffered subscription term. In current stage the form will submit to a 'correctly submitted form checker' supplied by the <a href="https://codeinstitute.net/" rel="nofollow" target="_blank" title="link to bootstrap">Code Institute</a> in one of the course lessons.
+
+### The Gallery Preview Section
+
+The gallery section contains images of people working out at the FitLife gym. On this page it is meant as a preview, with only a few images. The gallery is responsive to the screen of the user, done with the grid functionality from Bootstrap. On the smaller screen sizes, three images will be shown, all below one another. When the screen size increases, four images will be shown in 2 rows, both containing 2 images. When the screen gets even wider, three images will be shown all in one row. First three, then four and at most five. That depends on the width of the screen.
+
+### The Contact Section
+
+The contact section contains the location, phonenumber and emailaddress of the FitLife gym.
 
 ---
 
