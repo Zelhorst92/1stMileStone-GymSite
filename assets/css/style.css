@@ -131,10 +131,6 @@ body {
 }
 
 /* About */
-#about {
-    min-height: 60vh;
-}
-
 .about-image-container {
     background-size: cover;
 }
