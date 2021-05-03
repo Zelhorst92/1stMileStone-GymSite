@@ -349,23 +349,23 @@ body {
     box-shadow: 0.3rem 0.3rem 0.5rem #191919;
 }
 
-#gallery_image_1 {
+#gallery-image-1 {
     background-image: url(../images/gallery-image-1.jpg);
 }
 
-#gallery_image_2 {
+#gallery-image-2 {
     background-image: url(../images/gallery-image-2.jpg);
 }
 
-#gallery_image_3 {
+#gallery-image-3 {
     background-image: url(../images/gallery-image-3.jpg);
 }
 
-#gallery_image_4 {
+#gallery-image-4 {
     background-image: url(../images/gallery-image-4.jpg);
 }
 
-#gallery_image_5 {
+#gallery-image-5 {
     background-image: url(../images/gallery-image-5.jpg);
 }
 
