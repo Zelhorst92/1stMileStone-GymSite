@@ -235,6 +235,88 @@ Even better would be that the user can sign-up and complete registration at the 
 <a name="testing"></a>
 # Testing
 
+## Navigation
+
+*   ### Intention
+    *   A navigationbar that stays on the top of the screen with the user at all times so the user can find the content the user wants quickly and navigate through the website without scrolling if the user wished it so. 
+        *   When the screen is smaller, the navigationbar should change to the menu 'burger' button and have a drop down menu when clicked.
+    *   Buttons should link to the appropriate sections of the website.
+    *   Social media Icons should link to the appropriate website where they stand for and open in a new tab, safely.
+
+*   ### Test
+    *   All the links in the navigationbar will be tested if they link to the relevant sections of the website. 
+        *   Also on smaller screens when the navigationbar changes to a dropdown menu.
+    *   All the buttons will be tested if they link to the appropriate section of the website.
+    *   All the social media icons will be tested if they link to the appropriate social media site.
+
+*   ### Result
+    *   All links in the navigationbar and buttons go to the appropriate sections of the website.
+    *   The dropdown menu will appear if the screen width is smaller then 992px, as intented. 
+    *   In the dropdown menu all links work as intented.
+    *   On smaller screens, such as a mobile phone, the  the navigation dropdown menu covers half of the screen.
+
+*   ### Bugs
+    *   Dropdown menu covers half the screen on smaller screen devices.
+
+*   ### Comments
+    *   In current form, there is no login functionality, therefore that link goes back to the top.
+    *   In current form, there is no dedicated gallery page, therefore that link goes back to the top.
+
+## Responsiveness
+
+*   ### Intention
+    *   The site should be viewable on all standard device screen sizes and should move elements to fit the screen size.
+   
+*   ### Test
+    *   The site will be looked at via the inspection tool of Google Chrome and Mozilla Firefox in a responsive manner, the integrated iPhone 5 SE, iPhone 6/7/8, Nexus 5X, Nexus 10, iPad pro and on a 1080p desktop monitor
+    
+*   ### Result
+    *   The site behaves as expected per bootstrap layout grid, with the exception of the subscription section.
+
+*   ### Bugs
+    *   The 'subscription cards' in the subscription section, do not center as intended.
+
+*   ### Comments
+    *   None
+
+## Sign-up Form
+
+*   ### Intention
+    *   The sign-up form should recognize when one field or option is not filled in and if that is the case, not submit.
+    *   The sign-up form should when all fields and options are filled in, submit to a Code Institute 'correctly submitted form checker' site.
+   
+*   ### Test
+    *   The form will be submitted without any content filled in.
+    *   The form will be submitted with some fields or one not filled in, for all fields and options.
+    *   The form will be subbmitted when all fields are filled in.
+    *   The fields will be tested on correct information in the appropriate field.
+    
+*   ### Result
+    *   When the form had no content filled, it would not submit.
+    *   When the form had only one empty field, it would submit without the email and phone number.
+    *   When all fields were filled in, with the correct data, it would submit and show the Code Institute 'correctly submitted form checker' site.
+
+*   ### Bugs
+    *   The form should not submit without a phonenumber and emailaddress present in the form.
+
+*   ### Comments
+    *   The submitted result does not need to be opened in a new tab, as the goal of signing up has been achieved. There is no necessity that user stays on the website.
+    *   Ofcourse, instead of going to the website of the Code Institute, there should be a modal in place to say to tell the user that the form has been submitted correctly. See future features.
+
+## Responsiveness
+
+*   ### Intention
+   
+*   ### Test
+    
+*   ### Result
+
+*   ### Bugs
+
+*   ### Comments
+
+
+
 ---
 
 <a name="deploy"></a>
