@@ -383,10 +383,26 @@ body {
 
 /* Contact */
 .contact-details {
-    margin: 1px;
-    border: 1px solid #3e3e3e;
+    background-color: rgb(207, 207, 207);
+    text-align: center;
+    height: 27.5rem;
+    width: 25rem;
+    border: 3px solid #191919;
     border-radius: 2.5rem;
-    padding: .5rem;
+    padding: 1.5rem;
+    margin: 2rem auto 2rem auto;
+    box-shadow: 0.5rem 0.5rem 0.5rem 0.1rem #191919;
+}
+
+.contact-type {
+    font-weight: bold;
+    text-decoration: 2px underline;
+    margin-top: 1rem;
+    display: block;
+}
+
+.contact-info {
+    display: block;
 }
 
 /* Footer */
