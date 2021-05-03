@@ -171,7 +171,7 @@ The sign up section also has an eye catching background, to confirm once again t
 
 ### The Gallery Preview Section
 
-The gallery section contains images of people working out at the FitLife gym. On this page it is meant as a preview, with only a few images. The gallery is responsive to the screen of the user, done with the grid functionality from Bootstrap. On the smaller screen sizes, three images will be shown, all below one another. When the screen size increases, four images will be shown in 2 rows, both containing 2 images. When the screen gets even wider, three images will be shown all in one row. First three, then four and at most five. That depends on the width of the screen.
+The gallery section contains images of people working out at the FitLife gym. On this page it is meant as a preview, with only a few images. The gallery is responsive to the screen of the user, done with the grid functionality from Bootstrap. On the smaller screen sizes, three images will be shown, all below one another. When the screen size increases, four images will be shown in 2 rows, both containing 2 images. When the screen gets even wider, three images will be shown all in one row. First three, then four and at most five. That depends on the width of the screen. It also contains the preliminary button to the non-existent dedicated gallery page.
 
 ### The Contact Section
 
