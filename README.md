@@ -2,6 +2,8 @@
 
 
 ---
+<a name="top"></a>
+
 ## Content
 * [UX](#ux)
     * [Site Owner Goal](#owner-goal)
@@ -69,6 +71,8 @@
 * As a user, I want to see the prices of the different subscriptions to the FitLife gym.
 * As a user, I want to see relevant social media links of the FitLife gym.
 
+[Back to top](#top)
+
 ---
 
 <a name="user-req"></a>
@@ -89,6 +93,8 @@
 * User expects the sign-up form will be submitted correctly.
 * User expects the links to the social media to be working properly and open in a seperate browser.
 * User expects to find the contact information.
+
+[Back to top](#top)
 
 ---
 
@@ -126,6 +132,8 @@ The colours should be positive, helping the site owners goal of getting as many 
 Text versus background contrast is very important. Therefore I have used the <a href="https://coolors.co/contrast-checker/" rel="nofollow" target="_blank">contrast checker</a> on Coolors.
 The most important result is the basic background versus the text colour, which scored an <a href="https://coolors.co/contrast-checker/191919-b3b3b3" rel="nofollow" target="_blank">8.39</a>.
 
+[Back to top](#top)
+
 ---
 
 <a name="wireframes"></a>
@@ -136,6 +144,8 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 * <a href="/wireframes/mobile-wireframe-index.png" rel="nofollow" target="_blank" title="Wireframe for mobile">Mobile Wireframe</a>
 * <a href="/wireframes/tablet-wireframe-index.png" rel="nofollow" target="_blank" title="Wireframe for tablet">Tablet Wireframe</a>
 * <a href="/wireframes/desktop-wireframe-index.png" rel="nofollow" target="_blank" title="Wireframe for desktop">Desktop Wireframe</a>
+
+[Back to top](#top)
 
 ---
 ---
@@ -178,6 +188,8 @@ The gallery section contains images of people working out at the FitLife gym. On
 
 The contact section contains the location, phonenumber and emailaddress of the FitLife gym.
 
+[Back to top](#top)
+
 ---
 
 <a name="fea-future"></a>
@@ -202,6 +214,8 @@ Instead of going to the website of the Code Institute to see if the form success
 ### A function where the user can completely subscribe to the FitLife gym, without the inbetween of a customerservice
 
 Even better would be that the user can sign-up and complete registration at the FitLife gym on site without the need for contact with the customerservice. This would require payment options, databases, security while doing the payment and probably steps I can not think of as of now. This is also beyond my current knowledge and can therefore not be implemented now. But it would be a must have feature, as it would cut the presure on the customerservice quite a bit and therefore cost.
+
+[Back to top](#top)
 
 ---
 ---
@@ -236,6 +250,8 @@ Even better would be that the user can sign-up and complete registration at the 
 * <a href="https://stackoverflow.com/" rel="nofollow" target="_blank" title="Link to stackoverflow">Stackoverflow Forums</a>
 * <a href="https://jigsaw.w3.org/css-validator/" rel="nofollow" target="_blank" title="Link to the w3 css validator">W3C Css-validator</a>
 * <a href="https://validator.w3.org/" rel="nofollow" target="_blank" title="Link to w3c markup validator">W3C Markup-validator</a>
+
+[Back to top](#top)
 
 <a name="testing"></a>
 # Testing
@@ -320,6 +336,8 @@ Even better would be that the user can sign-up and complete registration at the 
 
 *   ### Comments
 
+[Back to top](#top)
+
 ---
 
 <a name="bugs"></a>
@@ -365,6 +383,8 @@ Even better would be that the user can sign-up and complete registration at the 
 *   ### Status
     *   Resolved
 
+[Back to top](#top)
+
 <a name="deploy"></a>
 # Deployment
 
@@ -407,6 +427,8 @@ The website was deployed via GitHub by following the steps below:
     <li>You can also download the whole repository in a zip file and use the IDE software you want.</li>
 </ul>
 
+[Back to top](#top)
+
 ---
 
 <a name="credits"></a>
@@ -416,4 +438,8 @@ The website was deployed via GitHub by following the steps below:
 
 https://www.healthline.com/nutrition/10-benefits-of-exercise#TOC_TITLE_HDR_2
 
+
+[Back to top](#top)
+
 ---
+
