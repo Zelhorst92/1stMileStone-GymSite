@@ -22,6 +22,10 @@ body {
     padding: 1rem 0;
 }
 
+.section-nav {
+    scroll-margin-top: 6rem;
+}
+
 .fitlife-btn {
     background: rgba(231, 79, 13, 0.66);
     color: #191919;
@@ -494,6 +498,11 @@ body {
 }
 
 @media screen and (min-width: 992px) {
+
+    /* Repeatable */
+    .section-nav {
+        scroll-margin-top: 5rem;
+    }
 
     /* About */
     .about-image {

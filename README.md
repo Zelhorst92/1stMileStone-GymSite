@@ -275,9 +275,11 @@ Even better would be that the user can sign-up and complete registration at the 
     *   The dropdown menu will appear if the screen width is smaller then 992px, as intented. 
     *   In the dropdown menu all links work as intented.
     *   On smaller screens, such as a mobile phone, the  the navigation dropdown menu covers half of the screen.
+    *   Sectionheaders are not visible when using the navigation bar; they are hidden behind the navigation bar.
 
 *   ### Bugs
     *   Dropdown menu covers half the screen on smaller screen devices.
+    *   Sectionheaders are not visible on first glance when user navigates the website with the navigation bar.
 
 *   ### Comments
     *   In current form, there is no login functionality, therefore that link goes back to the top.
@@ -347,6 +349,20 @@ Even better would be that the user can sign-up and complete registration at the 
 *   ### Status
     *   Unresolved
 
+## Sectionheadings
+
+*   ### Bug
+    *   Sectionheadings are hidden behind the navigation bar when jumping to certian sections with the navigation bar.
+   
+*   ### Fix
+    *   Add a new class of .section-nav to the appropriate sections and introducte a 'scroll-margin-top:' property to it.
+
+*   ### Result
+    *   Section headings are now visible when navigating throught the site with the navigation links.
+
+*   ### Status
+    *   Resolved
+
 ## Responsiveness Subscription Section
 *   ### Bug
     *   The third subscription card is not aligned in the center when on medium width screen sizes.
@@ -392,7 +408,7 @@ The website was deployed via GitHub by following the steps below:
     <li>Any time you will push to Github, the update will be visible after a short while.</li>
 </ol>
 
-## Deployment of the wesite locally:
+## Deployment of the website locally:
 
 <ol>
     <li>Click on the dropdown meno which says <b>Code</b> on the Github Repository.</li>
