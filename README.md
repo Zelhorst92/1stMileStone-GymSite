@@ -289,7 +289,9 @@ Even better would be that the user can sign-up and complete registration at the 
     *   The site should be viewable on all standard device screen sizes and should move elements to fit the screen size.
    
 *   ### Test
-    *   The site will be looked at via the inspection tool of Google Chrome and Mozilla Firefox in a responsive manner, the integrated iPhone 5 SE, iPhone 6/7/8, Nexus 5X, Nexus 10, iPad pro and on a 1080p desktop monitor
+    *   The site will be looked at via the inspection tool of Google Chrome, Mozilla Firefox and Microsoft Edge in a responsive manner and via the integrated viewports: iPhone 5 SE, iPhone 6/7/8, Nexus 5X, Nexus 10, iPad pro and on a 1080p desktop monitor.
+    *   Every section will be looked at seperately.
+    *   The site will be looked at via a Sony XZ smart phone.
     
 *   ### Result
     *   The site behaves as expected per bootstrap layout grid, with the exception of the subscription section.
@@ -298,7 +300,7 @@ Even better would be that the user can sign-up and complete registration at the 
     *   The 'subscription cards' in the subscription section, do not center as intended.
 
 *   ### Comments
-    *   None
+    *   None.
 
 ## Sign-up Form
 
@@ -323,18 +325,6 @@ Even better would be that the user can sign-up and complete registration at the 
 *   ### Comments
     *   The submitted result does not need to be opened in a new tab, as the goal of signing up has been achieved. There is no necessity that user stays on the website.
     *   Ofcourse, instead of going to the website of the Code Institute, there should be a modal in place to say to tell the user that the form has been submitted correctly. See future features.
-
-## Responsiveness
-
-*   ### Intention
-   
-*   ### Test
-    
-*   ### Result
-
-*   ### Bugs
-
-*   ### Comments
 
 [Back to top](#top)
 
