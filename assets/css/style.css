@@ -182,6 +182,12 @@ body {
     margin: 3rem 0;
 }
 
+.blockquote-footer {
+    color: #191919;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
 /* Subscriptions */
 #sub {
     border-bottom: 0.5rem solid #3e3e3e;
