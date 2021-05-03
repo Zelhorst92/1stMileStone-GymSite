@@ -348,7 +348,18 @@ Even better would be that the user can sign-up and complete registration at the 
 *   ### Status
     *   Resolved
 
+## Sign-up Form
+*   ### Bug
+    *   The form submits without a phonenumber and emailaddress present in the form.
+   
+*   ### Fix
+    *   Add 'required' to the appropriate input within the form.
+    
+*   ### Result
+    *   The form now requires all fields to be filled in with the appropriate content.
 
+*   ### Status
+    *   Resolved
 
 <a name="deploy"></a>
 # Deployment
