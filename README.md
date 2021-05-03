@@ -184,11 +184,19 @@ The contact section contains the location, phonenumber and emailaddress of the F
 
 ### A dedicated gallery page
 
+As much more could be shown about the FitLife gym, but not to make the homepage too crowded, a dedicated gallery page could be made. This would require a change in the navigation bar and to the button on the gallery section of the homepage.
+
 ### A memberpage
+
+As a member of the FitLife gym, the user would like to see what their current subscription is and possibly an option to enroll in one of the groupcourses. This would need to be specific to each user and requires a login in functionality. As this is beyond my current knowledge it cannot be implemented now, but it would be a future feature that should be implemented.
 
 ### A function that an email will be send to the subscriber when subscribing
 
-### 
+Currently when you submit the form, it will go to a 'correctly submitted form checker' of the code institute. That ofcourse should be sent to an email address or database of the FitLife gym so that the costumerservice can contact the user. Also the user should receive a copy of the submitted details as an email, possibly with an estimate on when they will be contacted.
+
+### A function where the user can completely subscribe to the FitLife gym, without the inbetween of a customerservice
+
+Even better would be that the user can sign-up and complete registration at the FitLife gym on site without the need for contact with the customerservice. This would require payment options, databases, security while doing the payment and probably steps I can not think of as of now. This is also beyond my current knowledge and can therefore not be implemented now. But it would be a must have feature, as it would cut the presure on the customerservice quite a bit and therefore cost.
 
 ---
 ---
