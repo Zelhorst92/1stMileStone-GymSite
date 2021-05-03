@@ -389,6 +389,21 @@ Even better would be that the user can sign-up and complete registration at the 
 *   ### Status
     *   Resolved
 
+## Visibility Form Filled in content
+*   ### Bug
+    *   When filling in the sign-up form, the filled in content is in a black color, which does combine well with the background and is therefore not particular readable.
+   
+*   ### Fix
+    *   Transparency of the form jumbotron could be made less.
+    *   The color of the filled in content in the input should be #E74F0D (Flame Orange).
+    
+*   ### Result
+    *   Color of the filled in content in the input has been changed to #E74F0D (Flame Orange).
+    *   The transparency of the form jumbotron has been reduced.
+
+*   ### Status
+    *   Resolved
+
 [Back to top](#top)
 
 <a name="deploy"></a>
