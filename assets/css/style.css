@@ -101,11 +101,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -129,7 +127,6 @@ body {
     width: 24rem;
     height: 12rem;
     padding: 1.5rem;
-
     position: absolute;
     bottom: 10vh;
     right: 10vw;
@@ -164,7 +161,6 @@ body {
     border-top: 0.5px solid #3e3e3e;
     border-bottom: 0.5px solid #3e3e3e;
     border-radius: 1.5rem;
-    /*     margin: 0 2rem 0 2rem; */
     padding: 2rem;
 }
 
@@ -204,7 +200,6 @@ body {
     margin: 2rem auto 2rem auto;
     text-align: center;
     box-shadow: 0.5rem 0.5rem 0.5rem 0.1rem #191919;
-
     position: relative;
 }
 
@@ -241,7 +236,6 @@ body {
     padding: 0;
     text-align: left;
     height: 9rem;
-
 }
 
 .sub-price {
@@ -251,7 +245,6 @@ body {
 .sub-btn {
     width: 10rem;
     font-weight: 500;
-
     position: absolute;
     right: 0;
     bottom: 0;
@@ -268,11 +261,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -281,7 +272,6 @@ body {
     border: 0.5rem solid #191919;
     max-width: 40rem;
     height: 50rem;
-
     position: absolute;
     bottom: 2.5%;
     right: 2.5%;
@@ -337,7 +327,6 @@ body {
     width: 17.5rem;
     height: 5rem;
     font-weight: bold;
-
     position: absolute;
     right: 0;
     bottom: 0;
@@ -429,7 +418,6 @@ body {
 .footer-items>li {
     display: inline-block;
     padding: 0 2.5%;
-
 }
 
 .footer-items .fab {
@@ -543,5 +531,4 @@ body {
     .form-jumbotron {
         right: 25%;
     }
-
 }
