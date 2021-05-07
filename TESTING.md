@@ -1,3 +1,15 @@
+- [Testing](#testing)
+  * [Navigation](#navigation)
+  * [Responsiveness](#responsiveness)
+  * [Sign-up Form](#sign-up-form)
+- [Bugs](#bugs-3)
+  * [Dropdown Menu](#dropdown-menu)
+  * [Sectionheadings](#sectionheadings)
+  * [Responsiveness Subscription Section](#responsiveness-subscription-section)
+  * [Responsiveness Form container](#responsiveness-form-container)
+  * [Sign-up Form](#sign-up-form-1)
+  * [Visibility Form Filled in content](#visibility-form-filled-in-content)
+
 # Testing
 
 ## Navigation
