@@ -401,11 +401,12 @@ The modal upon successfully filling out the form comes from [Bootstrap](https://
 I would like to thank my mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") for pointing me in the right direction in terms of the goals of the site.
 He also gave me quite a couple of pointers on how to improve my code and the order of code.
 I am certain that this will make me a more professional coder in the long run.
+During the meetings accompanying this project he was very helpful and made clear what the actual scope of the project was.
 
 #### My family and friends
 
 I would also like to thank my family and friends for their brutally honest feedback which helped a lot to view the website from the users perspective.
-They did not shy away from pointing out any flaws that I had overlooked.
+They did not shy away from pointing out any flaws that I had overlooked. They were very helpful in the initial bouncing of ideas.
 
 [Back to top](#table-of-content)
 
