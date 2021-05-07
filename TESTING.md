@@ -37,7 +37,7 @@
     *   Sectionheaders are not visible when using the navigation bar; they are hidden behind the navigation bar.
 
 *   ### Bugs
-    *   Dropdown menu covers half the screen on smaller screen devices.
+    *   ~~Dropdown menu covers half the screen on smaller screen devices.~~
     *   ~~Sectionheaders are not visible on first glance when user navigates the website with the navigation bar.~~
 
 *   ### Comments
