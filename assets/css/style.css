@@ -10,7 +10,7 @@ body {
     font-family: Ubuntu, Arial;
     font-weight: 400;
     background-color: #B3B3B3;
-    font-size: 16px;
+    font-size: 1.6rem;
 }
 
 /* Repeatables */
@@ -432,7 +432,7 @@ body {
     color: #E74F0D;
     background-color: #191919;
     text-align: center;
-    height: 23rem;
+    height: 26rem;
     border-radius: 1.5rem;
     border: 2px solid #E74F0D;
 }
@@ -452,7 +452,6 @@ body {
 .modal-footer {
     border: none;
 }
-
 
 /* Media Queries */
 @media screen and (min-width: 576px) {
