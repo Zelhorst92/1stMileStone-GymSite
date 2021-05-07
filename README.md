@@ -1,4 +1,10 @@
-![alt text](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/website-multi-mockup.png "Website Mockup")
+# FitLife.
+
+![FitLife Website Mockup](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/website-multi-mockup.png "FitLife Website Mockup")
+
+Welcome to the FitLife gym! **The** place to get in shape and live a Fit life! 
+
+The website will offer the user the what, why and where about the gym in one scrollable page, with the intention to motivate the user to sign-up to the gym.
 
 
 ---
