@@ -242,21 +242,21 @@ Even better would be that the user can sign-up and complete registration at the 
 
 ### Libraries & Frameworks
 
-* <a href="https://getbootstrap.com/" rel="nofollow" target="_blank" title="Link to bootstrap">Bootstrap</a>
-* <a href="https://fontawesome.com/" rel="nofollow" target="_blank" title="Link to fontawesome">Fontawsome</a>
-* <a href="https://fonts.google.com/" rel="nofollow" target="_blank" title="Link to googlefonts">Googlefonts</a>
+* [Bootstrap](https://getbootstrap.com/ "Link to bootstrap")
+* [Fontawsome](https://fontawesome.com/ "Link to fontawesome") 
+* [Googlefonts](https://fonts.google.com/ "Link to googlefonts") 
 
 ### Tools
 
-* <a href="https://www.gitpod.io/" rel="nofollow" target="_blank" title="Link to gitpod">Gitpod</a>
-* <a href="https://github.com/" rel="nofollow" target="_blank" title="Link to github">Github</a>
-* <a href="https://git-scm.com/" rel="nofollow" target="_blank" title="Link to git">Git</a>
-* <a href="https://tinypng.com/" rel="nofollow" target="_blank" title="Link to tinypng">Tinypng</a>
-* <a href="https://balsamiq.com/wireframes/" rel="nofollow" target="_blank" title="Link to balsamiq wireframes">Balsamiq Wireframes</a>
-* <a href="https://www.w3.org/" rel="nofollow" target="_blank" title="Link to W3schools">W3schools</a>
-* <a href="https://stackoverflow.com/" rel="nofollow" target="_blank" title="Link to stackoverflow">Stackoverflow Forums</a>
-* <a href="https://jigsaw.w3.org/css-validator/" rel="nofollow" target="_blank" title="Link to the w3 css validator">W3C Css-validator</a>
-* <a href="https://validator.w3.org/" rel="nofollow" target="_blank" title="Link to w3c markup validator">W3C Markup-validator</a>
+* [Gitpod](https://www.gitpod.io/ "Link to gitpod")
+* [Github](https://github.com/ "Link to github")
+* [Git](https://git-scm.com/ "Link to git")
+* [Tinypng](https://tinypng.com/ "Link to tinypng") 
+* [Balsamiq Wireframes](https://balsamiq.com/wireframes/ "Link to balsamiq wireframes")
+* [W3schools](https://www.w3.org/ "Link to W3schools")
+* [Stackoverflow Forums](https://stackoverflow.com/ "Link to stackoverflow")
+* [W3C Css-validator](https://jigsaw.w3.org/css-validator/ "Link to the w3 css validator")
+* [W3C Markup-validator](https://validator.w3.org/ "Link to w3c markup validator")
 
 [Back to top](#top)
 
