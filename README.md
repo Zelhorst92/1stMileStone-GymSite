@@ -11,34 +11,113 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 ---
 <a name="top"></a>
 
-## Content
-* [UX](#ux)
-    * [Site Owner Goal](#owner-goal)
-    * [User Goals](#user-goal)
-    * [User Stories](#user-stories)
-    * [User Requirements](#user-req)
-    * [User Expectations](#user-exp)
-    * [Design Choices](#design-choices)
-    * [Wireframes](#wireframes)
+# Table of Content
 
-* [Features](#features)
-    * [Existing Features](#fea-now)
-    * [Future Features](#fea-future)
+- [FitLife.](#fitlife)
+- [UX](#ux)
+  * [Site Owner Goal](#site-owner-goal)
+  * [User Goals](#user-goals)
+  * [User Stories](#user-stories)
+  * [User Requirements](#user-requirements)
+  * [User Expectations](#user-expectations)
+  * [Design Choices](#design-choices)
+    + [The structure](#the-structure)
+    + [Fonts](#fonts)
+    + [Icons](#icons)
+    + [Colours](#colours)
+      - [Coolors Contrast Checker](#coolors-contrast-checker)
+  * [Wireframes](#wireframes)
+- [Features](#features)
+  * [Existing Features](#existing-features)
+    + [The Navigation Bar](#the-navigation-bar)
+    + [The Hero Image/Hero Sign-up](#the-hero-image-hero-sign-up)
+    + [The About Section](#the-about-section)
+    + [The Review Section](#the-review-section)
+    + [The Subscription Section](#the-subscription-section)
+    + [The Sign-up Section](#the-sign-up-section)
+    + [The Gallery Preview Section](#the-gallery-preview-section)
+    + [The Contact Section](#the-contact-section)
+  * [Future Features](#future-features)
+    + [A dedicated gallery page](#a-dedicated-gallery-page)
+    + [A memberpage](#a-memberpage)
+    + [A function that an email will be send to the subscriber when subscribing](#a-function-that-an-email-will-be-send-to-the-subscriber-when-subscribing)
+    + [A modal on succesfully submitting the sign-up form](#a-modal-on-succesfully-submitting-the-sign-up-form)
+    + [A function where the user can completely subscribe to the FitLife gym, without the inbetween of a customerservice](#a-function-where-the-user-can-completely-subscribe-to-the-fitlife-gym--without-the-inbetween-of-a-customerservice)
+- [Technologies](#technologies)
+  * [Languages](#languages)
+  * [Libraries and Tools](#libraries-and-tools)
+    + [Libraries & Frameworks](#libraries---frameworks)
+    + [Tools](#tools)
+    + [Useful links](#useful-links)
+- [Testing](#testing)
+  * [Navigation](#navigation)
+    + [Intention](#intention)
+    + [Test](#test)
+    + [Result](#result)
+    + [Bugs](#bugs)
+    + [Comments](#comments)
+  * [Responsiveness](#responsiveness)
+    + [Intention](#intention-1)
+    + [Test](#test-1)
+    + [Result](#result-1)
+    + [Bugs](#bugs-1)
+    + [Comments](#comments-1)
+  * [Sign-up Form](#sign-up-form)
+    + [Intention](#intention-2)
+    + [Test](#test-2)
+    + [Result](#result-2)
+    + [Bugs](#bugs-2)
+    + [Comments](#comments-2)
+- [Bugs](#bugs-3)
+  * [Dropdown Menu](#dropdown-menu)
+    + [Bug](#bug)
+    + [Fix](#fix)
+    + [Result](#result-3)
+    + [Status](#status)
+  * [Sectionheadings](#sectionheadings)
+    + [Bug](#bug-1)
+    + [Fix](#fix-1)
+    + [Result](#result-4)
+    + [Status](#status-1)
+  * [Responsiveness Subscription Section](#responsiveness-subscription-section)
+    + [Bug](#bug-2)
+    + [Fix](#fix-2)
+    + [Result](#result-5)
+    + [Status](#status-2)
+  * [Responsiveness Form container](#responsiveness-form-container)
+    + [Bug](#bug-3)
+    + [Fix](#fix-3)
+    + [Result](#result-6)
+    + [Status](#status-3)
+  * [Sign-up Form](#sign-up-form-1)
+    + [Bug](#bug-4)
+    + [Fix](#fix-4)
+    + [Result](#result-7)
+    + [Status](#status-4)
+  * [Visibility Form Filled in content](#visibility-form-filled-in-content)
+    + [Bug](#bug-5)
+    + [Fix](#fix-5)
+    + [Result](#result-8)
+    + [Status](#status-5)
+- [Deployment](#deployment)
+  * [Deployment via GitHub Pages](#deployment-via-github-pages)
+  * [Deployment of the website locally:](#deployment-of-the-website-locally-)
+      - [Clone with a link](#clone-with-a-link)
+      - [Open with GitHub Desktop](#open-with-github-desktop)
+      - [Download the ZIP](#download-the-zip)
+- [Credits](#credits)
+  * [Overall](#overall)
+  * [Content](#content)
+  * [Images](#images)
+  * [Code](#code)
+    + [Overall](#overall-1)
+    + [Form](#form)
+  * [Thanks](#thanks)
+    + [My mentor](#my-mentor)
+    + [My family and friends](#my-family-and-friends)
 
-* [Technologies used](#tech-used)
-    * [Languages](#lang)
-    * [Tools and Libraries](#lib-and-tools)
-
-* [Testing](#testing)
-* [Bugs](#bugs)
-* [Deployment](#deploy)
-* [Credits](#credits)
-
-
-<a name="ux"></a>
 # UX
 
-<a name="owner-goal"></a>
 ## Site Owner Goal 
 
 * Getting users to sign up to the FitLife gym.
@@ -49,7 +128,6 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 
 ---
 
-<a name="user-goal"></a>
 ## User Goals
 * A website where you can learn about the FitLife gym.
 * A website where you can sign-up for a subscription at FitLife gym.
@@ -63,7 +141,6 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 
 ---
 
-<a name="user-stories"></a>
 ## User Stories
 
 * As a user, I want a website which is easy and intuitively to use.
@@ -82,7 +159,6 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 
 ---
 
-<a name="user-req"></a>
 ## User Requirements
 
 * Easy navigation to sign-up to the gym.
@@ -93,7 +169,6 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 
 ---
 
-<a name="user-exp"></a>
 ## User Expectations
 
 * User expects the navigation on the site to be working properly.
@@ -105,7 +180,6 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 
 ---
 
-<a name="design-choices"></a>
 ## Design Choices
 
 The goal of this site is the entice people to register on this site to become a member at the FitLife gym. Therefore the user should have the basic information at a glance and the colours should be of a positive 'feeling'.
@@ -143,7 +217,6 @@ The most important result is the basic background versus the text colour, which 
 
 ---
 
-<a name="wireframes"></a>
 ## Wireframes
 
 I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large. To make the wireframes I have used the program <a href="https://balsamiq.com/wireframes/">Balsamig Wireframes</a>.
@@ -157,10 +230,8 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 ---
 ---
 
-<a name="features"></a>
 # Features
 
-<a name="fea-now"></a>
 ## Existing Features
 
 ### The Navigation Bar
@@ -199,7 +270,6 @@ The contact section contains the location, phonenumber and emailaddress of the F
 
 ---
 
-<a name="fea-future"></a>
 ## Future Features
 
 ### A dedicated gallery page
@@ -227,18 +297,14 @@ Even better would be that the user can sign-up and complete registration at the 
 ---
 ---
 
-<a name="tech-used"></a>
 # Technologies
 
-<a name="lang"></a>
 ## Languages
 
 *   [HTML](https://en.wikipedia.org/wiki/HTML "Link to the HTML wikipedia page")
 *   [CSS](https://en.wikipedia.org/wiki/CSS "Link to the CSS wikipedia page")
 *   [JavaScript](https://en.wikipedia.org/wiki/JavaScript "Link to the JavaScript wikipedia page")
 
-
-<a name="lib-and-tools"></a>
 ## Libraries and Tools
 
 ### Libraries & Frameworks
@@ -263,12 +329,10 @@ Even better would be that the user can sign-up and complete registration at the 
 *   [W3schools](https://www.w3.org/ "Link to W3schools")
 *   [Stackoverflow Forums](https://stackoverflow.com/ "Link to stackoverflow")
 *   [Makeareadme.com](https://www.makeareadme.com/ "makeareadme.com")
-
-
+*   [Markdown Cheatcheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Link to a Markdown cheatsheet")
 
 [Back to top](#top)
 
-<a name="testing"></a>
 # Testing
 
 ## Navigation
@@ -350,7 +414,6 @@ Even better would be that the user can sign-up and complete registration at the 
 
 ---
 
-<a name="bugs"></a>
 # Bugs
 
 ## Dropdown Menu
@@ -437,7 +500,6 @@ Even better would be that the user can sign-up and complete registration at the 
 
 [Back to top](#top)
 
-<a name="deploy"></a>
 # Deployment
 
 ## Deployment via GitHub Pages
@@ -451,7 +513,6 @@ The website was deployed via GitHub by following the steps below:
     -   Example on how the **link** will look like and coincidently the link to the current website: [https://zelhorst92.github.io/FitLife/](https://zelhorst92.github.io/FitLife/ "Link to the deployed website")
 -   Any time you will push to Github, the update will be visible after a short while.
 
-
 ## Deployment of the website locally:
 
 -   Click on the dropdown menu which says **Code** on the Github Repository.
@@ -460,14 +521,12 @@ The website was deployed via GitHub by following the steps below:
     -   **Open with GitHub Desktop** 
     -   **download ZIP**
 
-
 #### Clone with a link
 
 -   When you want to clone; use the Clone with HTTPS option, copy the link displayed.
 -   Open your IDE and go to the terminal.
 -   Change the working directory to the location where the cloned directory is to go.
 -   Use the "git clone" command and paste the url copied in the second step.
-
 
 #### Open with GitHub Desktop
 
@@ -477,12 +536,10 @@ The website was deployed via GitHub by following the steps below:
 
 -   You can also download the whole repository in a zip file and use the IDE software you want.
 
-
 [Back to top](#top)
 
 ---
 
-<a name="credits"></a>
 # Credits
 
 ## Overall
@@ -513,8 +570,6 @@ The lessons from the Code Institute, the site W3schools and the Stackoverflow fo
 
 The code in the sign-up form is based on the form of the 'Love Running' course of Code Institute, although heavily modified. I have used the formdump site as action, so you can see that the form is correctly submitted.
 
-### 
-
 ## Thanks
 
 ### My mentor
@@ -524,7 +579,6 @@ My mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") fo
 ### My family and friends
 
 I would like to thank my family and friends for their brutally honest feedback which helped a lot to view the website from the users perspective. They did not shy away from pointing out any flaws that I had overlooked.
-
 
 [Back to top](#top)
 
