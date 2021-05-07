@@ -126,7 +126,7 @@ Several icons will be needed, partially to make the user experience on the mobil
 
 The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distracting from the information given. Therefore a positive colour pallette is needed, but still pragmatical; not a distraction. On the basis of the chosen hero image and the website [Coolors.co](https://coolors.co/), I have arrived at the following colour [pallette](https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e).
 
-[Colour Pallette Scheme](wireframes/colour-pallette-fitlife-gym.png "Colour Pallette Scheme")
+![Colour Pallette Scheme](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/colour-pallette-fitlife-gym.png?raw=true "Colour Pallette Scheme")
 
 * #B3B3B3 "Silver Chalice" Will be the background colour. Its neutral and all other colours will be distinctable.
 * #E74F0D "Flame Orange" Will be used for what needs the attention of the user. Such as the sign-up buttons or subscribtion prices.
