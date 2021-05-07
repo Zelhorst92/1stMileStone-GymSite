@@ -427,6 +427,33 @@ body {
     color: #3e3e3e;
 }
 
+/* Sign-up Success Modal */
+.modal-content {
+    color: #E74F0D;
+    background-color: #191919;
+    text-align: center;
+    height: 23rem;
+    border-radius: 1.5rem;
+    border: 2px solid #E74F0D;
+}
+
+.modal-title {
+    text-align: center;
+    padding: 2rem 0;
+    border-bottom: 2px solid #E74F0D;
+    border-color: #E74F0D;
+}
+
+.modal-btn {
+    width: 10rem;
+    font-weight: 500;
+}
+
+.modal-footer {
+    border: none;
+}
+
+
 /* Media Queries */
 @media screen and (min-width: 576px) {
 
