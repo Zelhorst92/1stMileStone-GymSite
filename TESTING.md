@@ -12,6 +12,7 @@
   * [Sign-up Form](#sign-up-form-1)
   * [Visibility Form Filled in content](#visibility-form-filled-in-content)
   * [Form phonenumber field](#form-phonenumber-field)
+  * [HTML and Markdown mix-up](#html-and-markdown-mix-up)
 
 # Testing
 
@@ -191,5 +192,20 @@
 
 *   ### Status
     *   Resolved
+
+
+## HTML and Markdown mix-up
+*   ### Problem
+    *   A HTML mixup resulted in using HTML inside the Readme file. Somewhere somehow I thought that it was acceptable to do so. My mentor luckely noticed what I have done and attended me to the fact that it was absolutely not allowed.
+
+*   ### Fix
+    *   Change out all the HTML for the appropriate Markdown language.
+
+*   ### Result
+    *   All HTML has been filtered out and replaced by the appropraite Mark Down.
+
+*   ### Status
+    *   Resolved
+
 
 [Back to top](#top)
