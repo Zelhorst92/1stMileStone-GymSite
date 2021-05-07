@@ -37,7 +37,7 @@ Thank you for visiting this project! For any feedback and/or questions you can a
   * [Content](#content)
   * [Images](#images)
   * [Code](#code)
-  * [Thanks](#thanks)
+- [Thanks](#thanks)
 
 # User Experience
 
@@ -218,7 +218,6 @@ Even better would be that the user can sign-up and complete registration at the 
 [Back to top](#table-of-content)
 
 ---
----
 
 # Technologies
 
@@ -247,16 +246,13 @@ Even better would be that the user can sign-up and complete registration at the 
 *   [W3C Markup-validator](https://validator.w3.org/ "Link to w3c markup validator")
 *   [Techsini](http://techsini.com/ "techsini.com")
 
-### Useful links
 
-*   [W3schools](https://www.w3.org/ "Link to W3schools")
-*   [Stackoverflow Forums](https://stackoverflow.com/ "Link to stackoverflow")
-*   [Makeareadme.com](https://www.makeareadme.com/ "makeareadme.com")
-*   [Markdown Cheatcheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Link to a Markdown cheatsheet")
 
 [Back to top](#table-of-content)
 
 # Testing
+
+This is done in a seperate file:
 
 [TESTING.md](https://github.com/Zelhorst92/FitLife/blob/master/TESTING.md "Link to tests and bugs file")
 
@@ -283,10 +279,10 @@ The website was deployed via GitHub by following the steps below:
 
 #### Clone with a link
 
--   When you want to clone; use the Clone with HTTPS option, copy the link displayed.
+-   When you want to clone; use the **Clone with HTTPS option**, copy the link displayed.
 -   Open your IDE and go to the terminal.
 -   Change the working directory to the location where the cloned directory is to go.
--   Use the "git clone" command and paste the url copied in the second step.
+-   Use the **git clone** command and paste the url copied in the second step.
 
 #### Open with GitHub Desktop
 
@@ -320,6 +316,13 @@ The information on the About-section is roughly based on these articles: [Health
 
 All the images present on this website are from [Unsplash.com](https://unsplash.com/ "Unsplash.com") and [Pexels.com](https://www.pexels.com/ "Pexels.com"). Both sites have collections of free to use images and a lot of them are of a very good quality.
 
+### Useful links
+
+*   [W3schools](https://www.w3.org/ "Link to W3schools")
+*   [Stackoverflow Forums](https://stackoverflow.com/ "Link to stackoverflow")
+*   [Makeareadme.com](https://www.makeareadme.com/ "makeareadme.com")
+*   [Markdown Cheatcheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Link to a Markdown cheatsheet")
+
 ## Code
 
 ### Overall
@@ -335,13 +338,13 @@ The navigationbar is a component from [Bootstrap](https://getbootstrap.com/ "Lin
 The code in the sign-up form is based on the form of the 'Love Running' course of Code Institute, although heavily modified.
 The modal upon successfully filling out the form comes from [Bootstrap](https://getbootstrap.com/ "Link to bootstrap") and the accompanying code snippet of JavaScript is made by my mentor, [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen").
 
-## Thanks
+# Thanks
 
-### My mentor
+## My mentor
 
 My mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") for pointing me in the right direction in terms of the goals of the site. He also gave me quite a couple of pointers on how to improve my code and the order of code. I am certain that this will make me a more professional coder in the long run.
 
-### My family and friends
+## My family and friends
 
 I would like to thank my family and friends for their brutally honest feedback which helped a lot to view the website from the users perspective. They did not shy away from pointing out any flaws that I had overlooked.
 
