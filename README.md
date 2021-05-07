@@ -9,7 +9,6 @@ The website will offer the user the what, why and where about the gym in one scr
 Thank you for visiting this project! For any feedback and/or questions you can always contact me via GitHub!
 
 ---
-<a name="top"></a>
 
 # Table of Content
 
@@ -25,47 +24,23 @@ Thank you for visiting this project! For any feedback and/or questions you can a
     + [Fonts](#fonts)
     + [Icons](#icons)
     + [Colours](#colours)
-      - [Coolors Contrast Checker](#coolors-contrast-checker)
   * [Wireframes](#wireframes)
 - [Features](#features)
   * [Existing Features](#existing-features)
-    + [The Navigation Bar](#the-navigation-bar)
-    + [The Hero Image/Hero Sign-up](#the-hero-image-hero-sign-up)
-    + [The About Section](#the-about-section)
-    + [The Review Section](#the-review-section)
-    + [The Subscription Section](#the-subscription-section)
-    + [The Sign-up Section](#the-sign-up-section)
-    + [The Gallery Preview Section](#the-gallery-preview-section)
-    + [The Contact Section](#the-contact-section)
   * [Future Features](#future-features)
-    + [A dedicated gallery page](#a-dedicated-gallery-page)
-    + [A memberpage](#a-memberpage)
-    + [A function that an email will be send to the subscriber when subscribing](#a-function-that-an-email-will-be-send-to-the-subscriber-when-subscribing)
-    + [A modal on succesfully submitting the sign-up form](#a-modal-on-succesfully-submitting-the-sign-up-form)
-    + [A function where the user can completely subscribe to the FitLife gym, without the inbetween of a customerservice](#a-function-where-the-user-can-completely-subscribe-to-the-fitlife-gym--without-the-inbetween-of-a-customerservice)
 - [Technologies](#technologies)
   * [Languages](#languages)
   * [Libraries and Tools](#libraries-and-tools)
-    + [Libraries & Frameworks](#libraries---frameworks)
-    + [Tools](#tools)
-    + [Useful links](#useful-links)
 - [Testing](#testing)
 - [Deployment](#deployment)
   * [Deployment via GitHub Pages](#deployment-via-github-pages)
   * [Deployment of the website locally:](#deployment-of-the-website-locally-)
-      - [Clone with a link](#clone-with-a-link)
-      - [Open with GitHub Desktop](#open-with-github-desktop)
-      - [Download the ZIP](#download-the-zip)
 - [Credits](#credits)
   * [Overall](#overall)
   * [Content](#content)
   * [Images](#images)
   * [Code](#code)
-    + [Overall](#overall-1)
-    + [Form](#form)
   * [Thanks](#thanks)
-    + [My mentor](#my-mentor)
-    + [My family and friends](#my-family-and-friends)
 
 # UX
 
@@ -106,7 +81,7 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 * As a user, I want to see the prices of the different subscriptions to the FitLife gym.
 * As a user, I want to see relevant social media links of the FitLife gym.
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 
@@ -127,7 +102,7 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 * User expects the links to the social media to be working properly and open in a seperate browser.
 * User expects to find the contact information.
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 
@@ -164,7 +139,7 @@ The colours should be positive, helping the site owners goal of getting as many 
 Text versus background contrast is very important. Therefore I have used the [contrast checker](https://coolors.co/contrast-checker/) on Coolors.
 The most important result is the basic background versus the text colour, which scored an [8.39](https://coolors.co/contrast-checker/191919-b3b3b3).
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 
@@ -176,7 +151,7 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 * [Tablet Wireframe](/wireframes/tablet-wireframe-index.png)
 * [Desktop Wireframe](/wireframes/desktop-wireframe-index.png)
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 ---
@@ -217,7 +192,7 @@ The gallery section contains images of people working out at the FitLife gym. On
 
 The contact section contains the location, phonenumber and emailaddress of the FitLife gym.
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 
@@ -243,7 +218,7 @@ Instead of going to the website of the Code Institute to see if the form success
 
 Even better would be that the user can sign-up and complete registration at the FitLife gym on site without the need for contact with the customerservice. This would require payment options, databases, security while doing the payment and probably steps I can not think of as of now. This is also beyond my current knowledge and can therefore not be implemented now. But it would be a must have feature, as it would cut the presure on the customerservice quite a bit and therefore cost.
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 ---
@@ -282,7 +257,7 @@ Even better would be that the user can sign-up and complete registration at the 
 *   [Makeareadme.com](https://www.makeareadme.com/ "makeareadme.com")
 *   [Markdown Cheatcheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Link to a Markdown cheatsheet")
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 # Testing
 
@@ -324,7 +299,7 @@ The website was deployed via GitHub by following the steps below:
 
 -   You can also download the whole repository in a zip file and use the IDE software you want.
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 
@@ -368,7 +343,7 @@ My mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") fo
 
 I would like to thank my family and friends for their brutally honest feedback which helped a lot to view the website from the users perspective. They did not shy away from pointing out any flaws that I had overlooked.
 
-[Back to top](#top)
+[Back to top](#table-of-content)
 
 ---
 
