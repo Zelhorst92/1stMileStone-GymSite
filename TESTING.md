@@ -1,3 +1,5 @@
+# Testing & Bugs
+
 - [Testing](#testing)
   * [Navigation](#navigation)
   * [Responsiveness](#responsiveness)
