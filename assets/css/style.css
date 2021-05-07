@@ -133,10 +133,6 @@ body {
 }
 
 /* About */
-.about-image-container {
-    background-size: cover;
-}
-
 .about-image {
     background: url(../images/about-image.jpg) no-repeat center top;
     background-size: cover;
@@ -153,11 +149,11 @@ body {
     margin-bottom: 1rem;
 }
 
-.about-piece {
+.about-article {
     margin-bottom: 2rem;
 }
 
-.about-piece p {
+.about-article p {
     border-top: 0.5px solid #3e3e3e;
     border-bottom: 0.5px solid #3e3e3e;
     border-radius: 1.5rem;
