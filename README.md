@@ -433,43 +433,42 @@ Even better would be that the user can sign-up and complete registration at the 
 # Deployment
 
 ## Deployment via GitHub Pages
-The website was deployed via GitHub by following the steps below: 
-(Do not forget to push the final code to GitHub.)
+The website was deployed via GitHub by following the steps below:
 
-<ol>
-    <li>Go to the repository you want to deply on github.</li>
-    <li>Click on the <b>Settings</b> tab</li>
-    <li>Go to <b>Pages</b> on the left side navigation</li>
-    <li>In the <b>Source</b> section, there is a dropdown menu; select the <b>master</b> branch and <b>root</b>. Click <b>save</b>.</li>
-    <li>Within a short moment the website is live. You will see a link on the top of the GitHub Pages section, either in a blue or green field.
-    <li>Example on how the <b>link</b> will look like and coincidently the link to the current website: <a href="https://zelhorst92.github.io/FitLife/" rel="nofollow" target="_blank" title="Link to the deployed website">https://zelhorst92.github.io/FitLife/</a></li>
-    <li>Any time you will push to Github, the update will be visible after a short while.</li>
-</ol>
+-   Go to the repository you want to deply on github.
+-   Click on the **Settings** tab
+-   Go to **Pages** on the left side navigation
+-   In the **Source** section, there is a dropdown menu; select the **master** branch and **root**. Click **save**.
+-   Within a short moment the website is live. You will see a link on the top of the GitHub Pages section, either in a blue or green field.
+    -   Example on how the **link** will look like and coincidently the link to the current website: [https://zelhorst92.github.io/FitLife/](https://zelhorst92.github.io/FitLife/ "Link to the deployed website")
+-   Any time you will push to Github, the update will be visible after a short while.
+
 
 ## Deployment of the website locally:
 
-<ol>
-    <li>Click on the dropdown meno which says <b>Code</b> on the Github Repository.</li>
-    <li>You will see several options; Clone with a link, 'Open with GitHub Desktop' and download ZIP</li>
-</ol>
+-   Click on the dropdown menu which says **Code** on the Github Repository.
+-   You will see several options; 
+    -   **Clone with a link**, 
+    -   **Open with GitHub Desktop** 
+    -   **download ZIP**
 
-#### Using the link
-<ol>
-    <li>When you want to clone; use the Clone with HTTPS option, copy the link displayed.</li>
-    <li>Open your IDE and go to the terminal.</li>
-    <li>Change the working directory to the location where the cloned directory is to go.</li>
-    <li>Use the "git clone" command and paste the url copied in the second step.</li>
-</ol>
+
+#### Clone with a link
+
+-   When you want to clone; use the Clone with HTTPS option, copy the link displayed.
+-   Open your IDE and go to the terminal.
+-   Change the working directory to the location where the cloned directory is to go.
+-   Use the "git clone" command and paste the url copied in the second step.
+
 
 #### Open with GitHub Desktop
-<ul>
-    <li>If you have GitHub Desktop installed, you can click on this and it will import and clone the repository for you, after selecting where it needs to go.</li>
-</ul>
+
+-   If you have GitHub Desktop installed, you can click on this and it will import and clone the repository for you, after selecting where it needs to go.
 
 #### Download the ZIP
-<ul>
-    <li>You can also download the whole repository in a zip file and use the IDE software you want.</li>
-</ul>
+
+-   You can also download the whole repository in a zip file and use the IDE software you want.
+
 
 [Back to top](#top)
 
