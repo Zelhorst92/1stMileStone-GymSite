@@ -37,7 +37,7 @@
 
 *   ### Bugs
     *   Dropdown menu covers half the screen on smaller screen devices.
-    *   Sectionheaders are not visible on first glance when user navigates the website with the navigation bar.
+    *   ~~Sectionheaders are not visible on first glance when user navigates the website with the navigation bar.~~
 
 *   ### Comments
     *   In current form, there is no login functionality, therefore that link goes back to the top.
@@ -59,7 +59,7 @@
     *   The rest of the website behaves as expected per bootstrap layout grid.
 
 *   ### Bugs
-    *   The 'subscription cards' in the subscription section, do not center as intended.
+    *   ~~The 'subscription cards' in the subscription section, do not center as intended.~~
     *   The form jumbotron extends into the subscription section when width is greater than 576px and height smallen than 636px.
 
 *   ### Comments
@@ -83,8 +83,8 @@
     *   When all fields were filled in, with the correct data, it would submit and show the Code Institute 'correctly submitted form checker' site.
 
 *   ### Bugs
-    *   The form should not submit without a phonenumber and emailaddress present in the form.
-    *   The phonenumberfield can contain any number between 0 and infinity.
+    *   ~~The form should not submit without a phonenumber and emailaddress present in the form.~~
+    *   ~~The phonenumberfield can contain any number between 0 and infinity.~~
 
 *   ### Comments
     *   The submitted result does not need to be opened in a new tab, as the goal of signing up has been achieved. There is no necessity that user stays on the website.
@@ -107,7 +107,7 @@
 *   ### Result
     *   
 
-*   ### Status [ ]
+*   ### Status
     *   Unresolved
 
 ## Sectionheadings
@@ -121,7 +121,7 @@
 *   ### Result
     *   Section headings are now visible when navigating throught the site with the navigation links.
 
-*   ### Status [x]
+*   ### Status
     *   Resolved
 
 ## Responsiveness Subscription Section
@@ -134,7 +134,7 @@
 *   ### Result
     *   The third card is now aligned in the center on medium width screen sizes.
 
-*   ### Status [x]
+*   ### Status
     *   Resolved
 
 ## Responsiveness Form container
@@ -147,7 +147,7 @@
 *   ### Result
     *   
 
-*   ### Status [ ]
+*   ### Status
     *   Unresolved
 
 ## Sign-up Form
@@ -160,7 +160,7 @@
 *   ### Result
     *   The form now requires all fields to be filled in with the appropriate content.
 
-*   ### Status [x]
+*   ### Status
     *   Resolved
 
 ## Visibility Form Filled in content
@@ -175,7 +175,7 @@
     *   Color of the filled in content in the input has been changed to #E74F0D (Flame Orange).
     *   The transparency of the form jumbotron has been reduced.
 
-*   ### Status [x]
+*   ### Status
     *   Resolved
 
 ## Form phonenumber field
@@ -188,7 +188,7 @@
 *   ### Result
     *   Only numbers between 8 to 10 digits can now be submitted.
 
-*   ### Status [x]
+*   ### Status
     *   Resolved
 
 [Back to top](#top)
