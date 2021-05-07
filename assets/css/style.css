@@ -34,13 +34,13 @@ body {
     border: 1px solid #000;
     border-radius: 1.5rem;
     box-shadow: 0.2rem -0.2rem 0.2rem 0.1rem #000;
-    text-decoration: 0;
+    text-decoration: none;
 }
 
 .fitlife-btn:hover {
     background: #E74F0D;
     color: #d3d3d3;
-    text-decoration: 0;
+    text-decoration: none;
 }
 
 /* Navigation */
@@ -389,7 +389,7 @@ body {
 
 .contact-type {
     font-weight: bold;
-    text-decoration: 2px underline;
+    text-decoration: solid underline #191919 2px;
     margin-top: 1rem;
     display: block;
 }
