@@ -234,6 +234,7 @@ Also the user should receive a copy of the submitted details as an email, possib
 ### ~~A modal on succesfully submitting the sign-up form~~
 ~~Instead of going to the website of the Code Institute to see if the form successfully submitted, a modal should poppup to confirm that the form is correctly submitted.
 As my knowledge of java script is very vague at best at this moment, this is on the list of future features.~~
+This has become a current feature.
 
 
 ### A function where the user can completely subscribe to the FitLife gym, without the inbetween of a customerservice
