@@ -296,10 +296,13 @@ Even better would be that the user can sign-up and complete registration at the 
     *   The site will be looked at via a Sony XZ smart phone.
     
 *   ### Result
-    *   The site behaves as expected per bootstrap layout grid, with the exception of the subscription section.
+    *   In the subscription section, the third subscription card does not center on medium width devices.
+    *   In the form section, the form jumbotron extends into the subscription section when the width of the screen is over 576px but the height is below 636px.
+    *   The rest of the website behaves as expected per bootstrap layout grid.
 
 *   ### Bugs
     *   The 'subscription cards' in the subscription section, do not center as intended.
+    *   The form jumbotron extends into the subscription section when width is greater than 576px and height smallen than 636px.
 
 *   ### Comments
     *   None.
@@ -375,6 +378,19 @@ Even better would be that the user can sign-up and complete registration at the 
 
 *   ### Status
     *   Resolved
+
+## Responsiveness Form container
+*   ### Bug
+    *   The form jumbotron extends into the subscription section when width is greater than 576px and height smallen than 636px.
+   
+*   ### Fix
+    *   
+    
+*   ### Result
+    *   
+
+*   ### Status
+    *   Unresolved
 
 ## Sign-up Form
 *   ### Bug
