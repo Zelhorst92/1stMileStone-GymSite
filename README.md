@@ -112,21 +112,21 @@ The goal of this site is the entice people to register on this site to become a 
 
 ### The structure
 
-For the structure of the website I will use the framework <a href="https://getbootstrap.com/" rel="nofollow" target="_blank" title="link to bootstrap">Bootstrap</a>. This framework allows for a proper responsive website which is build up from a mobile-first perspective. The grid-system that Bootstrap provides is very usefull to have a well working responsive website. Furthermore Bootstrap has a wide browser compatibility, quite easy to use and very customizable.
+For the structure of the website I will use the framework [Bootstrap](https://getbootstrap.com/ "Link to bootstrap"). This framework allows for a proper responsive website which is build up from a mobile-first perspective. The grid-system that Bootstrap provides is very usefull to have a well working responsive website. Furthermore Bootstrap has a wide browser compatibility, is quite easy to use and is very customizable.
 
 ### Fonts
 
-As the site is intended to inform the user quickly and efficiently about the FitLife gym, the font has to be easy to read and not diverting attention to much from the goal of the user subscribing to the gym. Therefore a simple but well readable font is necessary. I will be using a font from <a href="https://fonts.google.com/" rel="nofollow">Google Fonts</a>, specifically the <a href="https://fonts.google.com/specimen/Ubuntu">Ubuntu Font</a>. As it is a nice to the eyes and good to read. While still looking professional.
+As the site is intended to inform the user quickly and efficiently about the FitLife gym, the font has to be easy to read and not diverting attention to much from the goal of the user subscribing to the gym. Therefore a simple but well readable font is necessary. I will be using a font from [Google Fonts](https://fonts.google.com/ "Google Fonts"), specifically the [Ubuntu Font](https://fonts.google.com/specimen/Ubuntu/ "Ubuntu Font"). As it is a nice to the eyes and good to read. While still looking professional.
 
 ### Icons
 
-Several icons will be needed, partially to make the user experience on the mobile phone more fluently and partially because it is the norm to represent links to social media such as facebook and twitter by their logo. I will be using <a href="https://fontawesome.com/" rel="nofollow">Font Awesome</a> for this, as Font Awesome provides all the necessary icons and more.
+Several icons will be needed, partially to make the user experience on the mobile phone more fluently and partially because it is the norm to represent links to social media such as facebook and twitter by their logo. I will be using [Font Awesome](https://fontawesome.com/ "Font Awesome") for this, as Font Awesome provides all the necessary icons and more.
 
 ### Colours
 
-The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distraction from the information given. Therefore a positive colous pallete is needed, but still pragmatical; not distraction. On the basis of the chosen hero image and the website <a href="https://coolors.co/" rel="nofollow">Coolors.co</a> I have arrived at the following colour pallette: <a href="https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e">Link to pallette</a>.
+The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distracting from the information given. Therefore a positive colour pallette is needed, but still pragmatical; not a distraction. On the basis of the chosen hero image and the website [Coolors.co](https://coolors.co/), I have arrived at the following colour [pallette](https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e).
 
-<img src="wireframes/colour-pallette-fitlife-gym.png" title="Colour Pallette Scheme" style="max-width:100%;">
+[Colour Pallette Scheme](wireframes/colour-pallette-fitlife-gym.png "Colour Pallette Scheme")
 
 * #B3B3B3 "Silver Chalice" Will be the background colour. Its neutral and all other colours will be distinctable.
 * #E74F0D "Flame Orange" Will be used for what needs the attention of the user. Such as the sign-up buttons or subscribtion prices.
@@ -136,8 +136,8 @@ The colours should be positive, helping the site owners goal of getting as many 
 
 #### Coolors Contrast Checker
 
-Text versus background contrast is very important. Therefore I have used the <a href="https://coolors.co/contrast-checker/" rel="nofollow" target="_blank">contrast checker</a> on Coolors.
-The most important result is the basic background versus the text colour, which scored an <a href="https://coolors.co/contrast-checker/191919-b3b3b3" rel="nofollow" target="_blank">8.39</a>.
+Text versus background contrast is very important. Therefore I have used the [contrast checker](https://coolors.co/contrast-checker/) on Coolors.
+The most important result is the basic background versus the text colour, which scored an [8.39](https://coolors.co/contrast-checker/191919-b3b3b3).
 
 [Back to top](#top)
 
