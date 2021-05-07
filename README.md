@@ -1,4 +1,4 @@
-# FitLife.
+# FitLife. **The** gym to get in shape!
 
 ![FitLife Website Mockup](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/website-multi-mockup.png "FitLife Website Mockup")
 
@@ -12,7 +12,6 @@ Thank you for visiting this project! For any feedback and/or questions you can a
 
 # Table of Content
 
-- [FitLife.](#fitlife)
 - [UX](#ux)
   * [Site Owner Goal](#site-owner-goal)
   * [User Goals](#user-goals)
