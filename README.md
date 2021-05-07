@@ -165,7 +165,7 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 
 ### The Navigation Bar
 
-The navigationbar is a component from <a href="https://getbootstrap.com/" rel="nofollow" target="_blank" title="link to bootstrap">Bootstrap</a>, which I have modified to fit better with the style of the site. It will stay at the top of the website at all time, so that the user can use it to navigate the website at the users descretion. Furthermore is the navigationbar responsive and will show a menu button, with a dropdown menu when clicked, when viewed on a small tablet or mobilephone.
+The navigationbar is a component from [Bootstrap](https://getbootstrap.com/ "Bootstrap"), which I have modified to fit better with the style of the site. It will stay at the top of the website at all time, so that the user can use it to navigate the website at the users descretion. Furthermore is the navigationbar responsive and will show a menu button, with a dropdown menu when clicked, when viewed on a small tablet or mobilephone.
 
 ### The Hero Image/Hero Sign-up
 
@@ -185,7 +185,7 @@ In the subscription section, there are three different 'subscription cards' to i
 
 ### The Sign-up Section
 
-The sign up section also has an eye catching background, to confirm once again that if you do your exercise at the FitLife gym, you will look great. It also contains the sign-up form, where the user can leave their contact information so that the customerservice of the FitLife gym can contact the user with a membership offer they cannot refuse. It requires the users full name, emailaddress and phonenumber plus their preffered subscription term. In current stage the form will submit to a 'correctly submitted form checker' supplied by the <a href="https://codeinstitute.net/" rel="nofollow" target="_blank" title="link to bootstrap">Code Institute</a> in one of the course lessons.
+The sign up section also has an eye catching background, to confirm once again that if you do your exercise at the FitLife gym, you will look great. It also contains the sign-up form, where the user can leave their contact information so that the customerservice of the FitLife gym can contact the user with a membership offer they cannot refuse. It requires the users full name, emailaddress and phonenumber plus their preffered subscription term. In current stage the form will submit to a 'correctly submitted form checker' supplied by the [Code Institute](https://codeinstitute.net/ "Code Institute") in one of the lessons.
 
 ### The Gallery Preview Section
 
