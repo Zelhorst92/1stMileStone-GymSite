@@ -142,7 +142,7 @@ The most important result is the basic background versus the text colour, which 
 
 ## Wireframes
 
-I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large. To make the wireframes I have used the program <a href="https://balsamiq.com/wireframes/">Balsamig Wireframes</a>.
+I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstrap order, from small to large. To make the wireframes I have used the program [Balsamig Wireframes](https://balsamiq.com/wireframes/ "Link to Balsamig Wireframes").
 
 * [Mobile Wireframe](/wireframes/mobile-wireframe-index.png)
 * [Tablet Wireframe](/wireframes/tablet-wireframe-index.png)
