@@ -207,6 +207,11 @@ It also contains the preliminary button to the non-existent dedicated gallery pa
 ### The Contact Section
 The contact section contains the location, phonenumber and emailaddress of the FitLife gym.
 
+### A modal on succesfully submitting the sign-up form
+With the explanation and a snippet of JavaScript from [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") I have implementened a modal on submitting the form correctly.
+The poppup says that the sign up was successfull and that the costumerservice will contact the user for final approval.
+It also wishes the user a **good day**.
+
 [Back to top](#table-of-content)
 
 ---
@@ -226,9 +231,10 @@ Currently when you submit the form, it will go to a 'correctly submitted form ch
 That ofcourse should be sent to an email address or database of the FitLife gym so that the costumerservice can contact the user.
 Also the user should receive a copy of the submitted details as an email, possibly with an estimate on when they will be contacted.
 
-### A modal on succesfully submitting the sign-up form
-Instead of going to the website of the Code Institute to see if the form successfully submitted, a modal should poppup to confirm that the form is correctly submitted.
-As my knowledge of java script is very vague at best at this moment, this is on the list of future features. 
+### ~~A modal on succesfully submitting the sign-up form~~
+~~Instead of going to the website of the Code Institute to see if the form successfully submitted, a modal should poppup to confirm that the form is correctly submitted.
+As my knowledge of java script is very vague at best at this moment, this is on the list of future features.~~
+
 
 ### A function where the user can completely subscribe to the FitLife gym, without the inbetween of a customerservice
 Even better would be that the user can sign-up and complete registration at the FitLife gym on site without the need for contact with the customerservice.
