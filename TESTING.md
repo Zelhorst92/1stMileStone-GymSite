@@ -103,13 +103,13 @@
     *   Dropdown menu covers half the screen on smaller size screen.
    
 *   ### Fix
-    *   
+    *   Adding a piece of javascript to make the the dropdown menu collapse back again so the user can see where he/she is on the page.
     
 *   ### Result
-    *   
+    *   Navigation drop down menu now collapses back upon click.
 
 *   ### Status
-    *   Unresolved
+    *   Resolved
 
 ## Sectionheadings
 
