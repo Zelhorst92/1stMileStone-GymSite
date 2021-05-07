@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/website-multi-mockup.png "Website Mockup")
 
 
 ---
