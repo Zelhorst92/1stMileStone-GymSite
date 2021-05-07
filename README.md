@@ -2,17 +2,19 @@
 
 ![FitLife Website Mockup](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/website-multi-mockup.png "FitLife Website Mockup")
 
-Welcome to the FitLife gym! **The** place to get in shape and live a Fit life! Located on a unique location in Dublin, this is the gym for you!
+Welcome to the FitLife gym! **The** place to get in shape and live a Fit Life! Located on a unique location in Dublin, this is the gym for you!
 
 The website will offer the user the what, why and where about the gym in one scrollable page, with the intention to motivate the user to sign-up to the gym. All the images on the site are used as eye catchers aswell as informing the user as what the user would be doing at the FitLife gym.
 
 Thank you for visiting this project! For any feedback and/or questions you can always contact me via GitHub!
 
+~ Robert L. Z.
+
 ---
 
 # Table of Content
 
-- [UX](#ux)
+- [User Experience](#user-experience)
   * [Site Owner Goal](#site-owner-goal)
   * [User Goals](#user-goals)
   * [User Stories](#user-stories)
@@ -37,7 +39,7 @@ Thank you for visiting this project! For any feedback and/or questions you can a
   * [Code](#code)
   * [Thanks](#thanks)
 
-# UX
+# User Experience
 
 ## Site Owner Goal 
 
@@ -332,7 +334,7 @@ The code in the sign-up form is based on the form of the 'Love Running' course o
 
 ### My mentor
 
-My mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") for pointing me in the right direction in terms of the goals of the site. He also gave me quite a couple of pointers on how to improve my code and order of code. I am certain that this will make me a more professional coder in the long run.
+My mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") for pointing me in the right direction in terms of the goals of the site. He also gave me quite a couple of pointers on how to improve my code and the order of code. I am certain that this will make me a more professional coder in the long run.
 
 ### My family and friends
 
