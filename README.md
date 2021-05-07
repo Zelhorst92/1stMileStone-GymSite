@@ -113,7 +113,7 @@ For the structure of the website I will use the framework [Bootstrap](https://ge
 
 ### Fonts
 
-As the site is intended to inform the user quickly and efficiently about the FitLife gym, the font has to be easy to read and not diverting attention to much from the goal of the user subscribing to the gym. Therefore a simple but well readable font is necessary. I will be using a font from [Google Fonts](https://fonts.google.com/ "Google Fonts"), specifically the [Ubuntu Font](https://fonts.google.com/specimen/Ubuntu/ "Ubuntu Font"). As it is a nice to the eyes and good to read. While still looking professional.
+As the site is intended to inform the user quickly and efficiently about the FitLife gym, the font has to be easy to read and not diverting attention to much from the goal of the user subscribing to the gym. Therefore a simple but well readable font is necessary. I will be using a font from [Google Fonts](https://fonts.google.com/ "Google Fonts"), specifically the [Ubuntu Font](https://fonts.google.com/specimen/Ubuntu/ "Ubuntu Font"). As it is nice to the eyes and good to read. While still looking professional.
 
 ### Icons
 
@@ -121,7 +121,7 @@ Several icons will be needed, partially to make the user experience on the mobil
 
 ### Colours
 
-The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distracting from the information given. Therefore a positive colour pallette is needed, but still pragmatical; not a distraction. On the basis of the chosen hero image and the website [Coolors.co](https://coolors.co/), I have arrived at the following colour [pallette](https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e).
+The colours should be positive, helping the site owners goal of getting as many subscriptions to the FitLife gym as possible. However it should also not be too distracting from the information given. Therefore a positive colour pallette is needed, but still pragmatical. On the basis of the chosen hero image and the website [Coolors.co](https://coolors.co/), I have arrived at the following colour [pallette](https://coolors.co/e74f0d-fb8d2c-b3b3b3-191919-3e3e3e).
 
 ![Colour Pallette Scheme](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/colour-pallette-fitlife-gym.png?raw=true "Colour Pallette Scheme")
 
@@ -159,15 +159,15 @@ I have made wireframes for the sizes Mobile, Tablet and Desktop. As per Bootstra
 
 ### The Navigation Bar
 
-The navigationbar is a component from [Bootstrap](https://getbootstrap.com/ "Bootstrap"), which I have modified to fit better with the style of the site. It will stay at the top of the website at all time, so that the user can use it to navigate the website at the users descretion. Furthermore is the navigationbar responsive and will show a menu button, with a dropdown menu when clicked, when viewed on a small tablet or mobilephone.
+The navigationbar is a component from [Bootstrap](https://getbootstrap.com/ "Bootstrap"), which I have modified to fit better with the style of the site. It will stay at the top of the website at all time, so that the user can use it to navigate the website at the users descretion. Furthermore is the navigationbar responsive and will show a menu button, with a dropdown menu when clicked, when viewed on a small tablet or mobilephone. Upon click on a link in the dropdown menu, the menu will collapse back, so that the site is fully viewable again.
 
 ### The Hero Image/Hero Sign-up
 
-The hero image is meant as an eye catcher; it is clear what the site is about. This is combined with a big 'Sign-up' button to get user to sign up to the gym. The image resizes in such a way that there always exercising people in view. The 'Sign-up' button links to furtherdown the website, where you can commit your contact details.
+The hero image is meant as an eye catcher; it is clear what the site is about. This is combined with a big 'Sign-up' button to get the user to the sign-up section of the site to subscribe the gym. The image resizes in such a way that there always exercising people in view. The 'Sign-up' button links to furtherdown the website, where you can commit your contact details.
 
 ### The About Section
 
-The about section contains 4 reasons why you should exercise, combined with an image of a member exercising. The responsiveness is done with the grid layout from Bootstrap. On the smaller screen sizes all content will be ordered vertically in one column; 2 paragraphs followed by the image and then followed by the other 2 paragraphs. When the screen gets wider, paragraphs 2 and 4 will jump up to set next to paragraphs 1 and 3, with the image sitting in between the two sets of paragraphs, still aligned vertically. When the screen gets even wider, paragraphs 2 and 4 will jump back below paragraphs 1 and 3, but the content will be aligned horizontally. From left the right; paragraphs 1 and 2, then the image and then paragraphs 3 and 4. All content is responsive and will resize accordingly.
+The about section contains 4 reasons why you should exercise, combined with an image of a member exercising. The responsiveness is done with the grid layout from Bootstrap. On the smaller screen sizes all content will be ordered vertically in one column; 2 paragraphs followed by the image and then followed by the other 2 paragraphs. When the screen gets wider, paragraphs 2 and 4 will jump up to set next to paragraphs 1 and 3, with the image sitting in between the two sets of paragraphs, still aligned vertically. When the screen gets even wider, paragraphs 2 and 4 will jump back below paragraphs 1 and 3, but the content will be aligned horizontally. From left the right; paragraphs 1 and 2, then the image and then paragraphs 3 and 4. All content is responsive and will resize accordingly to the screensize.
 
 ### The Review Section
 
@@ -175,11 +175,11 @@ The review section contains 2 reviews of members of the FitLife gym. This is als
 
 ### The Subscription Section
 
-In the subscription section, there are three different 'subscription cards' to indicate the three options of membership; monthly, per season or yearly. There is a small eyecatcher to the yearly subscription card, which blinks. The select button brings you to the sign up section of the page.
+In the subscription section, there are three different **subscription cards** to indicate the three options of membership; monthly, per season or yearly. There is a small eyecatcher to the yearly subscription card, which blinks. The select button brings you to the sign up section of the page.
 
 ### The Sign-up Section
 
-The sign up section also has an eye catching background, to confirm once again that if you do your exercise at the FitLife gym, you will look great. It also contains the sign-up form, where the user can leave their contact information so that the customerservice of the FitLife gym can contact the user with a membership offer they cannot refuse. It requires the users full name, emailaddress and phonenumber plus their preffered subscription term. In current stage the form will submit to a 'correctly submitted form checker' supplied by the [Code Institute](https://codeinstitute.net/ "Code Institute") in one of the lessons.
+The sign up section also has an eye catching background, to confirm once again that if you do your exercise at the FitLife gym, you will look great. It also contains the sign-up form, where the user can leave their contact information so that the customerservice of the FitLife gym can contact the user with a membership offer they cannot refuse. It requires the users full name, emailaddress and phonenumber plus their preffered subscription term. ~~In current stage the form will submit to a 'correctly submitted form checker' supplied by the [Code Institute](https://codeinstitute.net/ "Code Institute") in one of the lessons.~~ In current stage, there is a modal that will poppup when the form is correctly filled in and submitted.
 
 ### The Gallery Preview Section
 
