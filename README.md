@@ -481,19 +481,19 @@ The website was deployed via GitHub by following the steps below:
 
 I have looked at several websites of gyms and sports for initial inspiration: 
 
-*   <a href="https://www.fitforfree.nl/" rel="nofollow" target="_blank" title="Link to sport site FitForFree">FitForFree</a>
-*   <a href="https://www.basic-fit.com/nl-nl" rel="nofollow" target="_blank" title="Link to sport site BasicFit">BasicFit</a>
-*   <a href="https://westwood.ie/" rel="nofollow" target="_blank" title="Link to sport site Westwood">Westwood</a>
+*   [FitForFree](https://www.fitforfree.nl/ "Link to sport site FitForFree")
+*   [BasicFit](https://www.basic-fit.com/nl-nl "Link to sport site BasicFit")
+*   [Westwood](https://westwood.ie/ "Link to sport site Westwood")
 
 All three have a different approach and I tried to stand apart from them aswell.
 
 ## Content
 
-The information on the About-section is roughly based on these articles: <a href="https://www.healthline.com/nutrition/10-benefits-of-exercise#TOC_TITLE_HDR_2" rel="nofollow" target="_blank" title="Link to Healthline.com">healthline</a> and <a href="https://www.psychologytoday.com/us/blog/fulfillment-any-age/201205/18-reasons-exercise" rel="nofollow" target="_blank" title="Link to Healthline.com">Psychologytoday</a>. That combined with my own and common knowledge.
+The information on the About-section is roughly based on these articles: [Healthline](https://www.healthline.com/nutrition/10-benefits-of-exercise#TOC_TITLE_HDR_2 "Healthline.com")  and [Psychologytoday](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201205/18-reasons-exercise "Psychologytoday.com"). That combined with my own and common knowledge.
 
 ## Images
 
-All the images present on this website are from <a href="https://unsplash.com/" rel="nofollow" target="_blank" title="Link to Unsplash.com">Unsplash.com</a> and <a href="https://www.pexels.com/" rel="nofollow" target="_blank" title="Link to Pexels.com">Pexels.com</a>. Both sites have collections of free to use images and a lot of them are of a very good quality.
+All the images present on this website are from [Unsplash.com](https://unsplash.com/ "Unsplash.com") and [Pexels.com](https://www.pexels.com/ "Pexels.com"). Both sites have collections of free to use images and a lot of them are of a very good quality.
 
 ## Code
 
@@ -511,7 +511,7 @@ The code in the sign-up form is based on the form of the 'Love Running' course o
 
 ### My mentor
 
-My mentor <a href="https://github.com/Eventyret" rel="nofollow" target="_blank" title="Link to githubpage of Simen">Simen Daehlin</a> for pointing me in the right direction in terms of the goals of the site. He also gave me quite a couple of pointers on how to improve my code and order of code. I am certain that this will make me a more professional coder in the long run.
+My mentor [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") for pointing me in the right direction in terms of the goals of the site. He also gave me quite a couple of pointers on how to improve my code and order of code. I am certain that this will make me a more professional coder in the long run.
 
 ### My family and friends
 
