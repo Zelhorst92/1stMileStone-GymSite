@@ -209,7 +209,7 @@ The contact section contains the location, phonenumber and emailaddress of the F
 
 ### A modal on succesfully submitting the sign-up form
 With the explanation and a snippet of JavaScript from [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen") I have implementened a modal on submitting the form correctly.
-The poppup says that the sign up was successfull and that the costumerservice will contact the user for final approval.
+The poppup says that the sign up was successfull and that the costumer service will contact the user for final approval.
 It also wishes the user a **good day**.
 
 [Back to top](#table-of-content)
@@ -228,7 +228,7 @@ As this is beyond my current knowledge it cannot be implemented now, but it woul
 
 ### A function that an email will be send to the subscriber when subscribing
 Currently when you submit the form, it will go to a 'correctly submitted form checker' of the code institute.
-That ofcourse should be sent to an email address or database of the FitLife gym so that the costumerservice can contact the user.
+That ofcourse should be sent to an email address or database of the FitLife gym so that the costumer service can contact the user.
 Also the user should receive a copy of the submitted details as an email, possibly with an estimate on when they will be contacted.
 
 ### ~~A modal on succesfully submitting the sign-up form~~
