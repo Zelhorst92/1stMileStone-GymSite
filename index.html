@@ -218,8 +218,8 @@
                 <input type="text" id="lname" name="last-name" class="form-input" placeholder="Last Name" required>
                 <input type="email" id="email" name="email-address" class="form-input" placeholder="Email Address"
                     required>
-                <input type="number" id="phone" name="phone-number" class="form-input" placeholder="Phone Number"
-                    required>
+                <input type="tel" id="phone" name="phone-number" class="form-input" placeholder="Phone Number"
+                    pattern="[0-9]{10}" required>
                 <h2 class="sub-term">Pick your preferred subscription term:</h2>
                 <div class="form-sub-options">
                     <div>
@@ -235,7 +235,7 @@
                         <input type="radio" id="yearly" name="subscription-option" value="yearly"><br>
                     </div>
                 </div>
-                <input type="submit" value="Sign-up!" class="fitlife-btn form-btn">
+                <button type="submit" class="fitlife-btn form-btn">Sign-up!</button>
             </form>
         </div>
     </section>
