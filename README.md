@@ -233,8 +233,9 @@ Even better would be that the user can sign-up and complete registration at the 
 <a name="lang"></a>
 ## Languages
 
-* <a href="https://en.wikipedia.org/wiki/HTML" rel="nofollow" target="_blank" title="Link to the HTML wikipedia page">HTML</a>
-* <a href="https://en.wikipedia.org/wiki/CSS" rel="nofollow" target="_blank" title="Link to the CSS wikipedia page">CSS</a>
+*   [HTML](https://en.wikipedia.org/wiki/HTML "Link to the HTML wikipedia page")
+*   [CSS](https://en.wikipedia.org/wiki/CSS "Link to the CSS wikipedia page")
+*   [JavaScript](https://en.wikipedia.org/wiki/JavaScript "Link to the JavaScript wikipedia page")
 
 
 <a name="lib-and-tools"></a>
@@ -242,21 +243,28 @@ Even better would be that the user can sign-up and complete registration at the 
 
 ### Libraries & Frameworks
 
-* [Bootstrap](https://getbootstrap.com/ "Link to bootstrap")
-* [Fontawsome](https://fontawesome.com/ "Link to fontawesome") 
-* [Googlefonts](https://fonts.google.com/ "Link to googlefonts") 
+*   [Bootstrap](https://getbootstrap.com/ "Link to bootstrap")
+*   [Fontawsome](https://fontawesome.com/ "Link to fontawesome") 
+*   [Googlefonts](https://fonts.google.com/ "Link to googlefonts") 
 
 ### Tools
 
-* [Gitpod](https://www.gitpod.io/ "Link to gitpod")
-* [Github](https://github.com/ "Link to github")
-* [Git](https://git-scm.com/ "Link to git")
-* [Tinypng](https://tinypng.com/ "Link to tinypng") 
-* [Balsamiq Wireframes](https://balsamiq.com/wireframes/ "Link to balsamiq wireframes")
-* [W3schools](https://www.w3.org/ "Link to W3schools")
-* [Stackoverflow Forums](https://stackoverflow.com/ "Link to stackoverflow")
-* [W3C Css-validator](https://jigsaw.w3.org/css-validator/ "Link to the w3 css validator")
-* [W3C Markup-validator](https://validator.w3.org/ "Link to w3c markup validator")
+*   [Gitpod](https://www.gitpod.io/ "Link to gitpod")
+*   [Github](https://github.com/ "Link to github")
+*   [Git](https://git-scm.com/ "Link to git")
+*   [Tinypng](https://tinypng.com/ "Link to tinypng") 
+*   [Balsamiq Wireframes](https://balsamiq.com/wireframes/ "Link to balsamiq wireframes")
+*   [W3C Css-validator](https://jigsaw.w3.org/css-validator/ "Link to the w3 css validator")
+*   [W3C Markup-validator](https://validator.w3.org/ "Link to w3c markup validator")
+*   [Techsini](http://techsini.com/ "techsini.com")
+
+### Useful links
+
+*   [W3schools](https://www.w3.org/ "Link to W3schools")
+*   [Stackoverflow Forums](https://stackoverflow.com/ "Link to stackoverflow")
+*   [Makeareadme.com](https://www.makeareadme.com/ "makeareadme.com")
+
+
 
 [Back to top](#top)
 
