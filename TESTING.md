@@ -62,7 +62,7 @@
 
 *   ### Bugs
     *   ~~The 'subscription cards' in the subscription section, do not center as intended.~~
-    *   The form jumbotron extends into the subscription section when width is greater than 576px and height smallen than 636px.
+    *   ~~The form jumbotron extends into the subscription section when width is greater than 576px and height smallen than 636px.~~
 
 *   ### Comments
     *   None.
@@ -144,13 +144,13 @@
     *   The form jumbotron extends into the subscription section when width is greater than 576px and height smallen than 636px.
    
 *   ### Fix
-    *   
+    *   Add a min-height property of 65rem to the form-container in the mediaquery of min-width 576px so that the background will always be bigger than the form-container.
     
 *   ### Result
-    *   
+    *   Form-container does no longer extend into the subscription section.
 
 *   ### Status
-    *   Unresolved
+    *   Resolved
 
 ## Sign-up Form
 *   ### Bug
