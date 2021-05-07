@@ -84,6 +84,7 @@
 
 *   ### Bugs
     *   The form should not submit without a phonenumber and emailaddress present in the form.
+    *   The phonenumberfield can contain any number between 0 and infinity.
 
 *   ### Comments
     *   The submitted result does not need to be opened in a new tab, as the goal of signing up has been achieved. There is no necessity that user stays on the website.
@@ -106,7 +107,7 @@
 *   ### Result
     *   
 
-*   ### Status
+*   ### Status [ ]
     *   Unresolved
 
 ## Sectionheadings
@@ -120,7 +121,7 @@
 *   ### Result
     *   Section headings are now visible when navigating throught the site with the navigation links.
 
-*   ### Status
+*   ### Status [x]
     *   Resolved
 
 ## Responsiveness Subscription Section
@@ -133,7 +134,7 @@
 *   ### Result
     *   The third card is now aligned in the center on medium width screen sizes.
 
-*   ### Status
+*   ### Status [x]
     *   Resolved
 
 ## Responsiveness Form container
@@ -146,7 +147,7 @@
 *   ### Result
     *   
 
-*   ### Status
+*   ### Status [ ]
     *   Unresolved
 
 ## Sign-up Form
@@ -159,7 +160,7 @@
 *   ### Result
     *   The form now requires all fields to be filled in with the appropriate content.
 
-*   ### Status
+*   ### Status [x]
     *   Resolved
 
 ## Visibility Form Filled in content
@@ -174,7 +175,20 @@
     *   Color of the filled in content in the input has been changed to #E74F0D (Flame Orange).
     *   The transparency of the form jumbotron has been reduced.
 
-*   ### Status
+*   ### Status [x]
+    *   Resolved
+
+## Form phonenumber field
+*   ### Bug
+    *   The phonenumberfield can contain any number between 0 and infinity.
+
+*   ### Fix
+    *   Change input type to tel and give it a pattern value of 8 to 10 character of only numbers.
+
+*   ### Result
+    *   Only numbers between 8 to 10 digits can now be submitted.
+
+*   ### Status [x]
     *   Resolved
 
 [Back to top](#top)
