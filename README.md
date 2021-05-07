@@ -326,9 +326,14 @@ All the images present on this website are from [Unsplash.com](https://unsplash.
 
 The lessons from the Code Institute, the site W3schools and the Stackoverflow forums were of great help in explaining in how certain code should work.
 
+### Navigation
+
+The navigationbar is a component from [Bootstrap](https://getbootstrap.com/ "Link to bootstrap") and the accompanying code snippet of JavaScript is made by my mentor, [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen"). So that the dropdown menu of the navigationbar does not obstruct the view of the website on smaller devices.
+
 ### Form
 
-The code in the sign-up form is based on the form of the 'Love Running' course of Code Institute, although heavily modified. I have used the formdump site as action, so you can see that the form is correctly submitted.
+The code in the sign-up form is based on the form of the 'Love Running' course of Code Institute, although heavily modified.
+The modal upon successfully filling out the form comes from [Bootstrap](https://getbootstrap.com/ "Link to bootstrap") and the accompanying code snippet of JavaScript is made by my mentor, [Simen Daehlin](https://github.com/Eventyret "githubpage of Simen").
 
 ## Thanks
 
