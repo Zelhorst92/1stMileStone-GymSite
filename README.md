@@ -2,10 +2,13 @@
 
 ![FitLife Website Mockup](https://github.com/Zelhorst92/FitLife/blob/master/wireframes/website-multi-mockup.png "FitLife Website Mockup")
 
-Welcome to the FitLife gym! **The** place to get in shape and live a Fit life! 
+Welcome to the FitLife gym! **The** place to get in shape and live a Fit life! Located on a unique location in Dublin, this is the gym for you!
 
 The website will offer the user the what, why and where about the gym in one scrollable page, with the intention to motivate the user to sign-up to the gym.
 
+All the images on the site are used as eye catchers aswell as informing the user as what the user would be doing at the FitLife gym.
+
+Thank you for visiting this project! For any feedback and/or questions you can always contact me via GitHub!
 
 ---
 <a name="top"></a>
